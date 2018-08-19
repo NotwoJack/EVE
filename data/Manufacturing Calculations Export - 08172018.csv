@@ -1,0 +1,353 @@
+Item Category,Item Name,Owned,Tech,Inputs,Compared,Profit,Isk per Hour,SVR,Total Cost,Item Market Price,Current Buy Orders,Current Sell Orders
+Rig,Capital Hyperspatial Velocity Optimizer II,No,T2,None,Components,99945853.67,3718223.72,9.52,547054172.3,647000026,25,90
+Rig,Capital Energy Burst Aerator II,No,T2,None,Components,42833707.85,1593515.92,2.24,27166292.15,70000000,8,16
+Rig,Large Hydraulic Bay Thrusters II,No,T2,None,Components,27517589.78,1364959.81,1.68,98800702.22,126318292,45,104
+Rig,Capital Core Defense Capacitor Safeguard II,No,T2,None,Components,23412562,871003.05,11.2,56937440.4,80350002.4,25,191
+Rig,Large Hyperspatial Velocity Optimizer II,No,T2,None,Components,17760646.69,880984.46,7.98,112241353.5,130002000.2,25,142
+Rig,Large Anti-Thermal Screen Reinforcer II,No,T2,None,Components,16010076.53,794150.62,21.84,21989936.09,38000012.62,318,289
+Rig,Large Egress Port Maximizer II,Yes,T2,Unknown,Components,13396160.57,637912.41,14.44,40603851.37,54000011.94,140,209
+Rig,Large Egress Port Maximizer II,No,T2,None,Components,13393751.05,664372.57,13.86,40606260.89,54000011.94,140,209
+Rig,Capital Energy Collision Accelerator II,No,T2,None,Components,12801072.14,476230.36,0.56,28998264.42,41799336.56,8,38
+Rig,Large Hybrid Locus Coordinator II,No,T2,None,Components,12496986.61,619890.21,1.68,12040214.99,24537201.6,180,338
+Rig,Large Warhead Rigor Catalyst II,No,T2,None,Components,11967071.54,593604.74,5.04,98211606.3,110178677.8,8,78
+Rig,Large Drone Control Range Augmentor II,No,T2,None,Components,11407409.45,565843.72,0.84,148592598.3,160000007.7,43,24
+Rig,Medium Ionic Field Projector II,No,T2,None,Components,10549374.14,784923.67,3.36,13450732.64,24000106.78,165,282
+Rig,Medium Drone Speed Augmentor II,No,T2,None,Components,9286956.8,690993.81,3.64,48713046.14,58000002.94,69,63
+Rig,Large Semiconductor Memory Cell II,No,T2,None,Components,8629445.29,428047.88,4.62,159483464.9,168112910.2,33,160
+Rig,Large Warhead Calefaction Catalyst II,No,T2,None,Components,8542413.28,423730.82,1.26,109287546.8,117829960,31,87
+Rig,Medium Core Defense Operational Solidifier II,No,T2,None,Components,8511105.7,633266.79,8.12,61488894.52,70000000.22,165,173
+Rig,Large Anti-EM Screen Reinforcer II,No,T2,None,Components,8200444.59,406768.08,25.62,21694085.99,29894530.58,22,400
+Rig,Medium Drone Mining Augmentor II,No,T2,None,Components,8101016.53,602754.21,12.6,51899025.99,60000042.52,47,301
+Rig,Medium Hydraulic Bay Thrusters II,No,T2,None,Components,8041771.36,598346.08,24.36,19899162.26,27940933.62,124,278
+Rig,Medium Energy Collision Accelerator II,No,T2,None,Components,7547308,561555.65,2.24,1452702,9000010,106,187
+Rig,Large Bay Loading Accelerator II,No,T2,None,Components,7362110.89,365184.07,2.1,102637890.8,110000001.6,57,75
+Rig,Large Hybrid Burst Aerator II,No,T2,None,Components,6986308.74,346543.09,2.1,17013692.24,24000000.98,59,47
+Rig,Large Warhead Flare Catalyst II,No,T2,None,Components,6710717.7,332872.9,2.52,85305625.02,92016342.72,29,56
+Rig,Small Signal Focusing Kit II,No,T2,None,Components,6592490.67,981025.4,1.68,2547511.35,9140002.02,52,197
+Rig,Medium Low Friction Nozzle Joints II,Yes,T2,Unknown,Components,6426239.56,459017.11,35.88,14961762.46,21388002.02,69,599
+Rig,Medium Low Friction Nozzle Joints II,No,T2,None,Components,6425324.48,478074.74,34.44,14962677.54,21388002.02,69,599
+Rig,Medium Transverse Bulkhead II,No,T2,None,Components,5998909.86,446347.46,40.32,8230490.68,14229400.54,562,631
+Rig,Medium Polycarbon Engine Housing II,No,T2,None,Components,5967424.85,444004.83,33.04,16436575.33,22404000.18,139,558
+Rig,Large Capacitor Control Circuit II,No,T2,None,Components,5229869.7,259418.14,62.58,76574140.3,81804010,208,318
+Rig,Medium Auxiliary Thrusters II,Yes,T2,Unknown,Components,5088944.46,363496.03,4.67,14911102.08,20000046.54,86,291
+Rig,Medium Auxiliary Thrusters II,No,T2,None,Components,5088029.38,378573.61,4.48,14912017.16,20000046.54,86,291
+Rig,Medium Hyperspatial Velocity Optimizer II,No,T2,None,Components,4699721.24,349681.64,70.56,23368282.9,28068004.14,264,605
+Rig,Small Ionic Field Projector II,No,T2,None,Components,4435972.38,660114.94,15.68,2465911.66,6901884.04,286,524
+Rig,Medium Energy Locus Coordinator II,No,T2,None,Components,4313233.19,320925.09,23.8,929855.67,5243088.86,221,494
+Rig,Medium Hybrid Burst Aerator II,No,T2,None,Components,4305963.38,320384.18,5.88,3894245.1,8200208.48,148,391
+Rig,Small Gravity Capacitor Upgrade II,No,T2,None,Components,4288053.81,638103.25,16.38,1383948.83,5672002.64,53,520
+Rig,Small Hybrid Burst Aerator II,No,T2,None,Components,4236316.07,630404.18,8.68,763704.31,5000020.38,790,734
+Rig,Small Hydraulic Bay Thrusters II,No,T2,None,Components,4209480.15,626410.74,36.68,3461098.55,7670578.7,472,1618
+Rig,Medium Semiconductor Memory Cell II,Yes,T2,Unknown,Components,4018636.98,287045.5,7.88,31981363.62,36000000.6,251,139
+Rig,Medium Semiconductor Memory Cell II,No,T2,None,Components,4016134.7,298819.55,7.56,31983865.9,36000000.6,251,139
+Rig,Medium Anti-Kinetic Screen Reinforcer II,No,T2,None,Components,3954898.61,294263.29,26.88,5445672.01,9400570.62,210,597
+Rig,Medium Cargohold Optimization II,Yes,T2,Unknown,Components,3908135.66,279152.55,55.71,16491866.38,20400002.04,199,590
+Rig,Medium Cargohold Optimization II,No,T2,None,Components,3906781.35,290683.14,53.48,16493220.69,20400002.04,199,590
+Rig,Medium Hybrid Metastasis Adjuster II,No,T2,None,Components,3807322.89,283282.95,1.12,2192866.03,6000188.92,34,107
+Rig,Medium Anti-EM Screen Reinforcer II,No,T2,None,Components,3761648.84,279884.59,135.8,5438351.18,9200000.02,486,2609
+Rig,Small Ancillary Current Router II,Yes,T2,Unknown,Components,3728079.4,532582.77,36.75,4673920.6,8402000,451,2085
+Rig,Small Ancillary Current Router II,No,T2,None,Components,3727378.66,554669.44,35.28,4674621.34,8402000,451,2085
+Rig,Medium Core Defense Capacitor Safeguard II,No,T2,None,Components,3698689.85,275200.14,4.48,2021310.41,5720000.26,100,363
+Rig,Small Processor Overclocking Unit II,No,T2,None,Components,3447895.52,513079.69,28.14,1352105.38,4800000.9,467,1065
+Rig,Small Anti-EM Screen Reinforcer II,No,T2,None,Components,3364489.79,500668.12,54.74,1835510.23,5200000.02,1114,2300
+Rig,Medium Processor Overclocking Unit II,No,T2,None,Components,3362729.23,250203.07,16.8,7257271.49,10620000.72,643,125
+Rig,Medium Energy Burst Aerator II,Yes,T2,Unknown,Components,3308143.66,236295.98,1.75,1291863.64,4600007.3,69,196
+Rig,Medium Energy Burst Aerator II,No,T2,None,Components,3307923.04,246125.23,1.68,1292084.26,4600007.3,69,196
+Rig,Small Energy Locus Coordinator II,No,T2,None,Components,3202855.27,476615.37,44.38,297145.69,3500000.96,909,1410
+Rig,Large Transverse Bulkhead II,No,T2,None,Components,3113194.3,154424.32,17.22,47420633.78,50533828.08,141,268
+Rig,Medium Bay Loading Accelerator II,No,T2,None,Components,3056298.19,227403.14,8.12,22943703.07,26000001.26,138,344
+Rig,Large Energy Metastasis Adjuster II,No,T2,None,Components,3012151.87,149412.29,0.84,3987848.21,7000000.08,30,166
+Rig,Small Salvage Tackle II,No,T2,None,Components,2959070.02,440337.8,5.46,14590930.22,17550000.24,89,358
+Rig,Small Semiconductor Memory Cell II,Yes,T2,Unknown,Components,2881344.84,411620.69,4.23,4258997.42,7140342.26,117,517
+Rig,Small Semiconductor Memory Cell II,No,T2,None,Components,2880820.16,428693.48,4.06,4259522.1,7140342.26,117,517
+Rig,Small Bay Loading Accelerator II,No,T2,None,Components,2792857.38,415603.78,10.08,3407499.5,6200356.88,508,787
+Rig,Large Hybrid Collision Accelerator II,No,T2,None,Components,2776783.42,137737.27,1.26,19635935,22412718.42,39,95
+Rig,Medium Rocket Fuel Cache Partition II,No,T2,None,Components,2705034.3,201267.43,7.84,19696993.04,22402027.34,31,147
+Rig,Small Particle Dispersion Projector II,No,T2,None,Components,2700018.34,401788.44,3.78,2399983.96,5100002.3,165,257
+Rig,Small Low Friction Nozzle Joints II,No,T2,None,Components,2695916.06,401177.98,77.56,4323988.28,7019904.34,1676,1693
+Rig,Small Anti-Thermal Screen Reinforcer II,No,T2,None,Components,2613678.08,388940.19,14.14,1807067.44,4420745.52,161,849
+Rig,Medium Anti-Thermal Screen Reinforcer II,No,T2,None,Components,2611230.03,194287.95,92.96,5394770.19,8006000.22,469,1793
+Rig,Small Energy Collision Accelerator II,No,T2,None,Components,2433990.08,362200.9,6.72,268035.44,2702025.52,245,588
+Rig,Small Projectile Collision Accelerator II,No,T2,None,Components,2415572.43,359460.18,19.18,2680438.75,5096011.18,337,221
+Rig,Small Transverse Bulkhead II,No,T2,None,Components,2312619.16,344139.76,82.32,2387381.2,4700000.36,1267,4215
+Rig,Small Cargohold Optimization II,No,T2,None,Components,2222356.43,330707.8,6.58,2977659.75,5200016.18,62,179
+Rig,Small Auxiliary Thrusters II,No,T2,None,Components,2195116.93,326654.3,11.34,4305016.65,6500133.58,46,689
+Rig,Small Capacitor Control Circuit II,Yes,T2,Unknown,Components,2170083.65,310011.95,30.33,4232052.91,6402136.56,371,1530
+Rig,Small Capacitor Control Circuit II,No,T2,None,Components,2169856.18,322895.27,29.12,4232280.38,6402136.56,371,1530
+Rig,Large Energy Collision Accelerator II,No,T2,None,Components,2067479.5,102553.55,0.84,5932521,8000000.5,60,131
+Rig,Small Warhead Calefaction Catalyst II,No,T2,None,Components,2044838.68,304291.47,5.6,3379162.52,5424001.2,59,62
+Rig,Small Energy Discharge Elutriation II,Yes,T2,Unknown,Components,1973462.94,281923.28,0.29,250539.4,2224002.34,34,40
+Rig,Small Energy Discharge Elutriation II,No,T2,None,Components,1973446.07,293667.57,0.28,250556.27,2224002.34,34,40
+Rig,Small Projectile Burst Aerator II,No,T2,None,Components,1937665.85,288343.13,7.56,2662334.35,4600000.2,524,298
+Rig,Medium Projectile Ambit Extension II,No,T2,None,Components,1921453.52,142965.29,2.24,8078550.12,10000003.64,24,243
+Rig,Medium Core Defense Charge Economizer II,No,T2,None,Components,1874721.2,139488.18,0.56,2125296.9,4000018.1,105,12
+Rig,Small Core Defense Capacitor Safeguard II,No,T2,None,Components,1836389.25,273272.21,0.7,1777608.75,3613998,75,537
+Rig,Small Rocket Fuel Cache Partition II,No,T2,None,Components,1829075.93,272183.92,5.32,3370922.37,5199998.3,224,422
+Rig,Large Rocket Fuel Cache Partition II,No,T2,None,Components,1820387.01,90296.97,1.26,98179708.29,100000095.3,23,44
+Rig,Medium Energy Discharge Elutriation II,No,T2,None,Components,1783514.88,132702,0.28,416491.76,2200006.64,66,44
+Rig,Small Targeting System Subcontroller II,No,T2,None,Components,1720947.08,256093.32,7.56,2363059.12,4084006.2,349,487
+Rig,Medium Anti-Explosive Screen Reinforcer II,No,T2,None,Components,1681203.41,125089.54,15.68,5359538.25,7040741.66,331,497
+Rig,Small Hybrid Metastasis Adjuster II,No,T2,None,Components,1567416.84,233246.55,0.28,662583.16,2230000,120,178
+Rig,Small Particle Dispersion Augmentor II,No,T2,None,Components,1533814.35,228246.18,3.78,1466185.65,3000000,1070,329
+Rig,Small Anti-Explosive Pump II,Yes,T2,Unknown,Components,1471337.21,210191.03,9.92,14533789.11,16005126.32,157,127
+Rig,Small Anti-Explosive Pump II,No,T2,None,Components,1470774.48,218865.25,9.52,14534351.84,16005126.32,157,127
+Rig,Small Hyperspatial Velocity Optimizer II,No,T2,None,Components,1327365.95,197524.69,132.58,4272144.39,5599510.34,310,4510
+Rig,Small Anti-Kinetic Screen Reinforcer II,No,T2,None,Components,1246728.04,185525.01,6.3,1755283.66,3002011.7,299,372
+Rig,Small Energy Burst Aerator II,No,T2,None,Components,1227675.34,182689.78,2.38,222336.96,1450012.3,212,357
+Rig,Small Auxiliary Nano Pump II,No,T2,None,Components,1161471.69,172838.05,19.6,14522832.31,15684304,644,636
+Rig,Small Hybrid Collision Accelerator II,No,T2,None,Components,1153103.01,171592.71,4.9,646903.81,1800006.82,150,569
+Rig,Small Polycarbon Engine Housing II,Yes,T2,Unknown,Components,1074104.36,153443.48,46.52,2933895.8,4008000.16,573,1685
+Rig,Small Polycarbon Engine Housing II,No,T2,None,Components,1073861.27,159800.78,44.66,2934138.89,4008000.16,573,1685
+Rig,Medium Capacitor Control Circuit II,Yes,T2,Unknown,Components,986031.34,70430.81,129.5,17107668.48,18093699.82,399,1103
+Rig,Medium Capacitor Control Circuit II,No,T2,None,Components,984848.77,73277.44,124.32,17108851.05,18093699.82,399,1103
+Rig,Medium Targeting System Subcontroller II,No,T2,None,Components,914278.62,68026.68,4.2,13085729.02,14000007.64,169,235
+Rig,Medium Core Defense Field Purger II,No,T2,None,Components,803105.93,59754.91,104.16,61196894.53,62000000.46,100,799
+Rig,Small Emission Scope Sharpener II,No,T2,None,Components,711462.61,105872.41,5.74,1248541.21,1960003.82,100,747
+Rig,Small Trimark Armor Pump II,No,T2,None,Components,697806.51,103840.25,44.66,14505069.71,15202876.22,258,1010
+Rig,Large Anti-Kinetic Screen Reinforcer II,No,T2,None,Components,594066.69,29467.59,5.46,21405935.71,22000002.4,59,114
+Rig,Small Memetic Algorithm Bank II,No,T2,None,Components,576880.48,85845.31,3.08,1243343.52,1820224,156,221
+Rig,Large Energy Locus Coordinator II,No,T2,None,Components,507054.53,25151.51,2.52,3892948.31,4400002.84,86,152
+Rig,Large Hybrid Metastasis Adjuster II,No,T2,None,Components,494473.6,24527.46,0.84,11585527.16,12080000.76,10,187
+Rig,Large Energy Discharge Elutriation II,No,T2,None,Components,356248.94,17671.08,1.26,1843756.1,2200005.04,18,139
+Rig,Small Algid Energy Administrations Unit II,No,T2,None,Components,131214.55,19525.98,0.14,180785.45,312000,82,25
+Rig,Small Energy Metastasis Adjuster II,No,T2,None,Components,119661.88,17806.83,0.98,180345.94,300007.82,251,109
+Rig,Small Anti-Thermal Pump II,No,T2,None,Components,116935.29,17401.09,4.76,14483064.73,14600000.02,220,250
+Rig,Medium Energy Metastasis Adjuster II,No,T2,None,Components,99780.49,7424.14,0.84,770238.63,870019.12,173,168
+Rig,Small Energy Ambit Extension II,No,T2,None,Components,81114.34,12070.59,0.42,178885.66,260000,226,108
+Rig,Small Warhead Flare Catalyst II,No,T2,None,Components,15798.22,2350.93,1.26,3302204.18,3318002.4,73,233
+Rig,Small Anti-Explosive Screen Reinforcer II,No,T2,None,Components,-28957.21,-4309.11,1.54,1706957.23,1678000.02,262,440
+Rig,Medium Memetic Algorithm Bank II,No,T2,None,Components,-76968.39,-5726.81,1.4,7126966.39,7049998,38,103
+Rig,Small Hybrid Ambit Extension II,No,T2,None,Components,-99276.08,-14773.23,0.56,599444.3,500168.22,202,59
+Rig,Small Core Defense Field Extender II,No,T2,None,Components,-149178.41,-22199.17,112.98,17153179.27,17004000.86,642,1960
+Rig,Medium Dynamic Fuel Valve II,No,T2,None,Components,-195294.59,-14530.85,0.56,7195474.67,7000180.08,32,67
+Rig,Small Projectile Ambit Extension II,No,T2,None,Components,-332714.72,-49511.12,0.7,2576312.72,2243598,127,286
+Rig,Medium Energy Ambit Extension II,Yes,T2,Unknown,Components,-352911.69,-25207.98,0.29,752911.67,399999.98,1100,21
+Rig,Medium Energy Ambit Extension II,No,T2,None,Components,-353082.95,-26271.05,0.28,753082.93,399999.98,1100,21
+Rig,Small Engine Thermal Shielding II,No,T2,None,Components,-378982.87,-56396.26,0.42,2879020.93,2500038.06,107,72
+Rig,Medium Anti-Thermal Pump II,No,T2,None,Components,-446357.95,-33211.16,9.8,42448088.11,42001730.16,36,460
+Rig,Medium Anti-EM Pump II,No,T2,None,Components,-447721.47,-33312.61,4.48,42448036.45,42000314.98,190,362
+Rig,Small Nanobot Accelerator II,No,T2,None,Components,-461324.38,-68649.46,4.48,14461356.38,14000032,45,443
+Rig,Small Hybrid Discharge Elutriation II,No,T2,None,Components,-479041.92,-71286,0.14,585041.92,106000,644,36
+Rig,Medium Hybrid Collision Accelerator II,No,T2,None,Components,-511750.06,-38076.64,1.96,3711754.62,3200004.56,116,363
+Rig,Small Algid Hybrid Administrations Unit II,No,T2,None,Components,-542263.63,-80693.99,0.14,582664.35,40400.72,96,11
+Rig,Medium Warhead Rigor Catalyst II,No,T2,None,Components,-572601.76,-42604.3,6.16,19572826.38,19000224.62,124,331
+Rig,Small Hybrid Locus Coordinator II,No,T2,None,Components,-581288.16,-86501.21,8.26,581288.16,0,90,1383
+Rig,Medium Hybrid Discharge Elutriation II,No,T2,None,Components,-748083.57,-55660.98,0.28,748083.57,0,0,28
+Rig,Large Energy Ambit Extension II,No,T2,None,Components,-841848.21,-41758.34,0.42,3841848.21,3000000,30,39
+Rig,Medium Algid Energy Administrations Unit II,No,T2,None,Components,-909190.13,-67648.08,0.28,909190.13,0,0,35
+Rig,Large Energy Burst Aerator II,No,T2,None,Components,-972604.56,-48244.27,1.26,5172604.56,4200000,1034,225
+Rig,Small Signal Disruption Amplifier II,No,T2,None,Components,-999497.39,-148734.73,0.28,1183697.43,184200.04,289,157
+Rig,Small Inverted Signal Field Projector II,No,T2,None,Components,-1040661.79,-154860.38,0.98,1368663.87,328002.08,300,339
+Rig,Small Targeting Systems Stabilizer II,No,T2,None,Components,-1055865.89,-157122.9,0.84,2257865.89,1202000,281,149
+Rig,Small Liquid Cooled Electronics II,No,T2,None,Components,-1078628.34,-160510.17,0.14,1180628.34,102000,235,26
+Rig,Small Projectile Metastasis Adjuster II,No,T2,None,Components,-1253410.19,-186519.37,0.28,2541434.27,1288024.08,11,314
+Rig,Small Powergrid Subroutine Maximizer II,No,T2,None,Components,-1310507.84,-195016.05,0.28,2466507.84,1156000,101,56
+Rig,Medium Trimark Armor Pump II,No,T2,None,Components,-1416351.43,-105383.29,156.8,43516356.39,42100004.96,111,1194
+Rig,Medium Anti-Kinetic Pump II,No,T2,None,Components,-1487554.95,-110681.17,6.44,42408644.73,40921089.78,122,278
+Rig,Small Warhead Rigor Catalyst II,No,T2,None,Components,-1633461.99,-243074.7,3.92,3239752.01,1606290.02,141,452
+Rig,Small Core Defense Charge Economizer II,No,T2,None,Components,-1645799.44,-244910.63,0.14,1645805.44,6,100,495
+Rig,Medium Hybrid Ambit Extension II,No,T2,None,Components,-1780948.5,-132511.05,0.28,1981167.12,200218.62,24,45
+Rig,Medium Hybrid Locus Coordinator II,No,T2,None,Components,-1780968.21,-132512.52,12.04,1981166.37,200198.16,1119,1077
+Rig,Small Projectile Locus Coordinator II,No,T2,None,Components,-1938841.91,-288518.14,0.84,2515468.25,576626.34,91,519
+Rig,Small Warp Core Optimizer II,Yes,T2,Unknown,Components,-1945946.84,-277992.41,0.44,4147952.92,2202006.08,246,65
+Rig,Small Warp Core Optimizer II,No,T2,None,Components,-1946129.41,-289602.59,0.42,4148135.49,2202006.08,246,65
+Rig,Small Anti-Kinetic Pump II,No,T2,None,Components,-2002753.49,-298028.79,2.52,14402765.15,12400011.66,206,44
+Rig,Small Tracking Diagnostic Subroutines II,No,T2,None,Components,-2067381.87,-307646.11,0.28,2219381.87,152000,9,51
+Rig,Medium Engine Thermal Shielding II,Yes,T2,Unknown,Components,-2070547.92,-147896.28,1.75,11026547.14,8955999.22,23,243
+Rig,Medium Engine Thermal Shielding II,No,T2,None,Components,-2071469.77,-154127.22,1.68,11027468.99,8955999.22,23,243
+Rig,Medium Warhead Flare Catalyst II,No,T2,None,Components,-2223938.7,-165471.63,5.32,18363938.8,16140000.1,25,190
+Rig,Medium Signal Focusing Kit II,No,T2,None,Components,-2251852.69,-167548.56,1.4,6655857.79,4404005.1,139,256
+Rig,Small Egress Port Maximizer II,No,T2,None,Components,-2418341.03,-359872.18,0.56,2424540.11,6199.08,198,40
+Rig,Medium Gravity Capacitor Upgrade II,No,T2,None,Components,-2443663.57,-181820.21,1.96,6043669.81,3600006.24,66,193
+Rig,Medium Ancillary Current Router II,No,T2,None,Components,-2532322.83,-188416.88,78.4,49036018.55,46503695.72,363,702
+Rig,Large Cargohold Optimization II,No,T2,None,Components,-2764201.54,-137113.17,5.04,76764202.46,74000000.92,13,132
+Rig,Medium Algid Hybrid Administrations Unit II,No,T2,None,Components,-2968150.86,-220844.56,0.28,2968150.86,0,95,79
+Rig,Medium Core Defense Field Extender II,No,T2,None,Components,-3050894.51,-227001.08,303.24,61050894.51,58000000,746,1697
+Rig,Small Core Defense Field Purger II,No,T2,None,Components,-3251649.2,-483876.37,2.8,17035649.24,13784000.04,41,447
+Rig,Large Hybrid Discharge Elutriation II,Yes,T2,Unknown,Components,-3270252.14,-155726.29,0.44,4270252.16,1000000.02,100,57
+Rig,Large Hybrid Discharge Elutriation II,No,T2,None,Components,-3270708.68,-162237.53,0.42,4270708.7,1000000.02,100,57
+Rig,Small Dynamic Fuel Valve II,No,T2,None,Components,-3497486.07,-520459.24,0.56,4777486.11,1280000.04,123,125
+Rig,Medium Emission Scope Sharpener II,No,T2,None,Components,-3871858.1,-288084.68,0.84,6983752.1,3111894,42,40
+Rig,Medium Inverted Signal Field Projector II,No,T2,None,Components,-3986830.41,-296639.17,0.84,6386831.33,2400000.92,24,51
+Rig,Large Remote Repair Augmentor II,No,T2,None,Components,-4200330.2,-208349.71,2.94,344200330.2,340000000,26,90
+Rig,Large Drone Mining Augmentor II,No,T2,None,Components,-4237985.24,-210217.52,23.52,264238002,260000016.8,28,129
+Rig,Medium Anti-Explosive Pump II,No,T2,None,Components,-4301631.52,-320061.87,21.56,42302039.86,38000408.34,36,555
+Rig,Large Algid Energy Administrations Unit II,No,T2,None,Components,-4438768.54,-220177.01,1.26,4438974.54,206,1010,44
+Rig,Small Drone Control Range Augmentor II,No,T2,None,Components,-4502456.61,-670008.42,0.14,9502457.89,5000001.28,11,149
+Rig,Medium Warhead Calefaction Catalyst II,No,T2,None,Components,-4638451.28,-345122.86,5.32,22652298.1,18013846.82,47,251
+Rig,Large Ancillary Current Router II,No,T2,None,Components,-4891494.67,-242633.66,4.62,243313500.2,238422005.5,35,91
+Rig,Medium Auxiliary Nano Pump II,No,T2,None,Components,-4908264.25,-365198.23,35.56,71099666.37,66191402.12,42,196
+Rig,Small Anti-EM Pump II,No,T2,None,Components,-4933716.31,-734183.97,2.1,14291732.31,9358016,63,443
+Rig,Medium Nanobot Accelerator II,No,T2,None,Components,-4938517.4,-367449.21,15.12,71098520.3,66160002.9,248,576
+Rig,Capital Hybrid Metastasis Adjuster II,No,T2,None,Components,-4965021.97,-184710.64,1.12,56981038.77,52016016.8,4,9
+Rig,Capital Anti-EM Screen Reinforcer II,No,T2,None,Components,-4974323.22,-185056.67,8.96,104974331.1,100000007.9,50,209
+Rig,Medium Particle Dispersion Projector II,No,T2,None,Components,-5182175.61,-385578.54,2.52,12806178.03,7624002.42,26,68
+Rig,Medium Signal Disruption Amplifier II,No,T2,None,Components,-5462236.62,-406416.41,0.56,5656643.28,194406.66,206,253
+Rig,Small Drone Speed Augmentor II,No,T2,None,Components,-5623957.44,-836898.43,0.42,9459972.74,3836015.3,9,115
+Rig,Medium Liquid Cooled Electronics II,No,T2,None,Components,-5713440.29,-425107.16,0.28,6913441.51,1200001.22,55,22
+Rig,Medium Projectile Metastasis Adjuster II,No,T2,None,Components,-5979247.37,-444884.48,1.4,7779250.09,1800002.72,59,461
+Rig,Medium Particle Dispersion Augmentor II,Yes,T2,Unknown,Components,-6212715.61,-443765.4,3.21,6234502.09,21786.48,2065,191
+Rig,Medium Particle Dispersion Augmentor II,No,T2,None,Components,-6213215.66,-462292.83,3.08,6235002.14,21786.48,2065,191
+Rig,Medium Projectile Locus Coordinator II,Yes,T2,Unknown,Components,-6749892.72,-482135.19,2.04,7749897.74,1000005.02,66,353
+Rig,Medium Projectile Locus Coordinator II,No,T2,None,Components,-6750045.15,-502235.5,1.96,7750050.17,1000005.02,66,353
+Rig,Large Processor Overclocking Unit II,No,T2,None,Components,-6986267.9,-346541.07,6.3,35186476.48,28200208.58,206,93
+Rig,Medium Projectile Collision Accelerator II,No,T2,None,Components,-7152007.83,-532143.44,1.68,15374459.31,8222451.48,55,79
+Rig,Medium Targeting Systems Stabilizer II,No,T2,None,Components,-7256205.89,-539896.27,1.96,12776208.85,5520002.96,5,543
+Rig,Large Core Defense Field Purger II,Yes,T2,Unknown,Components,-7711216.83,-367200.8,10.94,263741827,256030610.2,53,189
+Rig,Large Core Defense Field Purger II,No,T2,None,Components,-7723797.97,-383124.9,10.5,263754408.2,256030610.2,53,189
+Rig,Large Ancillary Current Router II,Yes,T2,Unknown,Components,-7805566.43,-371693.64,4.81,246227571.9,238422005.5,35,91
+Rig,Small Drone Scope Chip II,No,T2,None,Components,-8082823.84,-1202801.17,0.56,9366823.84,1284000,157,88
+Rig,Small Drone Durability Enhancer II,No,T2,None,Components,-8098381.48,-1205116.29,0.28,9366381.72,1268000.24,140,66
+Rig,Medium Powergrid Subroutine Maximizer II,Yes,T2,Unknown,Components,-8316930.18,-594066.44,0.58,9658932.76,1342002.58,189,63
+Rig,Medium Powergrid Subroutine Maximizer II,No,T2,None,Components,-8317404.91,-618854.53,0.56,9659407.49,1342002.58,189,63
+Rig,Small Drone Mining Augmentor II,No,T2,None,Components,-8356596.34,-1243541.12,0.42,9356599.84,1000003.5,112,91
+Rig,Large Core Defense Field Extender II,No,T2,None,Components,-8485527.68,-420909.11,14.7,263725551.8,255240024.1,103,97
+Rig,Small Core Defense Operational Solidifier II,No,T2,None,Components,-8527712.82,-1269004.88,0.98,16835777.6,8308064.78,9,172
+Rig,Large Core Defense Capacitor Safeguard II,No,T2,None,Components,-8582880.23,-425738.11,5.04,10900777.27,2317897.04,27,272
+Rig,Small Drone Repair Augmentor II,No,T2,None,Components,-8687973.64,-1292853.22,-,9343973.64,656000,110,5
+Rig,Capital Energy Discharge Elutriation II,No,T2,None,Components,-8741141.34,-325191.27,-,8741141.34,0,18,42
+Rig,Medium Salvage Tackle II,No,T2,None,Components,-8946680.14,-665675.61,10.36,70946680.2,62000000.06,85,404
+Rig,Small Remote Repair Augmentor II,No,T2,None,Components,-9028606.73,-1343542.67,1.26,14136606.73,5108000,30,75
+Rig,Small Sentry Damage Augmentor II,No,T2,None,Components,-9108130.05,-1355376.5,0.28,9328130.05,220000,126,84
+Rig,Capital Transverse Bulkhead II,No,T2,None,Components,-9142219.64,-340112.34,3.92,229142220.8,220000001.2,9,111
+Rig,Medium Warp Core Optimizer II,No,T2,None,Components,-9217666.78,-685838.3,0.56,22841007.8,13623341.02,18,43
+Rig,Small Stasis Drone Augmentor II,Yes,T2,Unknown,Components,-9217688.74,-1316812.68,0.44,9323688.74,106000,107,32
+Rig,Small Stasis Drone Augmentor II,No,T2,None,Components,-9218108.54,-1371742.34,0.42,9324108.54,106000,107,32
+Rig,Medium Egress Port Maximizer II,No,T2,None,Components,-9608546.34,-714921.6,1.12,9610548.42,2002.08,0,111
+Rig,Medium Remote Repair Augmentor II,No,T2,None,Components,-9717477.88,-723026.63,5.6,70917480.28,61200002.4,59,115
+Rig,Medium Projectile Burst Aerator II,No,T2,None,Components,-9775070.37,-727311.78,1.12,15275076.77,5500006.4,58,101
+Rig,Large Algid Hybrid Administrations Unit II,No,T2,None,Components,-10467883.77,-519240.27,0.42,14467883.77,4000000,2,22
+Rig,Capital Energy Metastasis Adjuster II,No,T2,None,Components,-10729891.25,-399177.5,1.12,18729892.25,8000001,7,47
+Rig,Capital Energy Locus Coordinator II,No,T2,None,Components,-10729892.21,-399177.54,0.56,18729892.21,8000000,4,54
+Rig,Large Anti-Explosive Screen Reinforcer II,No,T2,None,Components,-10929240.41,-542125.02,1.68,20969401.51,10040161.1,75,21
+Rig,Medium Drone Control Range Augmentor II,No,T2,None,Components,-11040075.62,-821434.2,0.56,35059464.74,24019389.12,31,197
+Rig,Large Hybrid Ambit Extension II,No,T2,None,Components,-11144707.13,-552812.85,0.42,11144707.13,0,99,18
+Rig,Medium Tracking Diagnostic Subroutines II,No,T2,None,Components,-11487321.26,-854711.4,0.28,12567321.96,1080000.7,5,1
+Rig,Large Core Defense Charge Economizer II,No,T2,None,Components,-13814801.66,-685258.02,0.42,15814801.92,2000000.26,134,33
+Rig,Large Particle Dispersion Augmentor II,No,T2,None,Components,-14803108.19,-734281.16,0.84,24803110.59,10000002.4,49,23
+Rig,Large Targeting System Subcontroller II,No,T2,None,Components,-15786204.13,-783045.84,0.84,63563328.29,47777124.16,29,9
+Rig,Medium Sentry Damage Augmentor II,No,T2,None,Components,-17340868.34,-1290243.18,1.4,57377058.92,40036190.58,73,53
+Rig,Capital Energy Ambit Extension II,No,T2,None,Components,-18437992.21,-685937.21,-,18437992.21,0,57,68
+Rig,Large Projectile Burst Aerator II,No,T2,None,Components,-18654497.99,-925322.32,1.68,69656501.89,51002003.9,37,83
+Rig,Medium Drone Scope Chip II,No,T2,None,Components,-20693757,-1539714.06,0.56,34693757.04,14000000.04,10,98
+Rig,Capital Hybrid Discharge Elutriation II,No,T2,None,Components,-21094906.09,-784780.73,-,21094906.09,0,3,16
+Rig,Capital Algid Energy Administrations Unit II,No,T2,None,Components,-21382216.76,-795469.37,-,21856218.76,474002,13,16
+Rig,Large Projectile Metastasis Adjuster II,No,T2,None,Components,-23788135.93,-1179967.06,0.84,46408405.81,22620269.88,16,93
+Rig,Large Ionic Field Projector II,Yes,T2,Unknown,Components,-23851273.86,-1135774.95,0.44,63252104.48,39400830.62,30,15
+Rig,Large Ionic Field Projector II,No,T2,None,Components,-23856762.96,-1183371.18,0.42,63257593.58,39400830.62,30,15
+Rig,Large Trimark Armor Pump II,No,T2,None,Components,-24364580.51,-1208560.54,23.52,286076621.1,261712040.6,51,259
+Rig,Large Projectile Ambit Extension II,No,T2,None,Components,-24368531.59,-1208756.53,0.42,46386418.85,22017887.26,20,70
+Rig,Medium Drone Durability Enhancer II,No,T2,None,Components,-25525173.45,-1899194.45,0.84,50625174.13,25100000.68,19,73
+Rig,Large Gravity Capacitor Upgrade II,Yes,T2,Unknown,Components,-26007501.24,-1238452.44,0.44,28407501.94,2400000.7,20,16
+Rig,Large Gravity Capacitor Upgrade II,No,T2,None,Components,-26008544.21,-1290106.36,0.42,28408544.91,2400000.7,20,16
+Rig,Large Signal Disruption Amplifier II,No,T2,None,Components,-26778335.72,-1328290.46,0.84,27338335.74,560000.02,100,12
+Rig,Large Inverted Signal Field Projector II,No,T2,None,Components,-27484992.4,-1363342.88,-,29262771.1,1777778.7,23,28
+Rig,Capital Core Defense Field Extender II,No,T2,None,Components,-27840620.67,-1035737.38,13.44,1297880624,1270040004,45,92
+Rig,Medium Drone Repair Augmentor II,No,T2,None,Components,-28575506.48,-2126153.76,0.84,34395522.68,5820016.2,9,83
+Rig,Capital Capacitor Control Circuit II,No,T2,None,Components,-29221203.11,-1087098.33,3.92,369221219.4,340000016.3,42,70
+Rig,Large Projectile Locus Coordinator II,No,T2,None,Components,-33712180,-1672231.15,0.42,46032456.04,12320276.04,10,42
+Rig,Large Liquid Cooled Electronics II,No,T2,None,Components,-34125565.1,-1692736.36,0.84,34158366.1,32801,219,19
+Rig,Large Memetic Algorithm Bank II,No,T2,None,Components,-34157268.87,-1694308.97,0.42,34157268.87,0,200,20
+Rig,Large Emission Scope Sharpener II,No,T2,None,Components,-34159925.35,-1694440.74,0.42,34159925.35,0,0,13
+Rig,Large Low Friction Nozzle Joints II,Yes,T2,Unknown,Components,-34481854.49,-1641993.07,1.31,74481854.53,40000000.04,49,57
+Rig,Large Low Friction Nozzle Joints II,No,T2,None,Components,-34486427.85,-1710636.3,1.26,74486427.89,40000000.04,49,57
+Rig,Large Powergrid Subroutine Maximizer II,Yes,T2,Unknown,Components,-34778850.93,-1656135.76,0.44,38778850.93,4000000,1015,41
+Rig,Large Powergrid Subroutine Maximizer II,No,T2,None,Components,-34781260.45,-1725260.94,0.42,38781260.45,4000000,1015,41
+Rig,Large Signal Focusing Kit II,No,T2,None,Components,-37445276.31,-1857404.58,-,37445276.31,0,0,22
+Rig,Large Dynamic Fuel Valve II,No,T2,None,Components,-39164617.75,-1942689.37,0.84,44542396.83,5377779.08,18,11
+Rig,Capital Hybrid Locus Coordinator II,No,T2,None,Components,-39238231.78,-1459755.65,0.56,55682676.38,16444444.6,8,48
+Rig,Capital Anti-Thermal Screen Reinforcer II,No,T2,None,Components,-39660326.09,-1475458.56,7.84,103660331,64000004.94,4,145
+Rig,Capital Hybrid Ambit Extension II,No,T2,None,Components,-39666454.15,-1475686.54,-,55666454.15,16000000,110,52
+Rig,Large Auxiliary Nano Pump II,No,T2,None,Components,-40813328.58,-2024470.66,4.2,342813330.3,302000001.7,19,31
+Rig,Large Nanobot Accelerator II,No,T2,None,Components,-40813329.56,-2024470.71,2.52,342813330.2,302000000.7,26,17
+Rig,Capital Drone Mining Augmentor II,No,T2,None,Components,-41529124.91,-1544982.33,19.6,1285529125,1244000000,19,176
+Rig,Large Engine Thermal Shielding II,No,T2,None,Components,-43259298.25,-2145798.52,0.42,53059301.05,9800002.8,33,4
+Rig,Capital Anti-Explosive Screen Reinforcer II,No,T2,None,Components,-43490450.25,-1617948.3,1.12,103515235.5,60024785.26,5,24
+Rig,Large Projectile Collision Accelerator II,No,T2,None,Components,-43690337.67,-2167179.45,0.84,81418340.13,37728002.46,12,63
+Rig,Large Particle Dispersion Projector II,No,T2,None,Components,-47889982.18,-2375495.15,0.42,55889982.18,8000000,4,17
+Rig,Capital Hybrid Burst Aerator II,No,T2,None,Components,-48537638.36,-1805715.71,0.56,80537771.72,32000133.36,12,18
+Rig,Large Tracking Diagnostic Subroutines II,No,T2,None,Components,-53670982.16,-2662251.1,0.42,55670982.18,2000000.02,106,19
+Rig,Medium Stasis Drone Augmentor II,No,T2,None,Components,-56359409.8,-4193408.47,0.28,62359409.82,6000000.02,1,3
+Rig,Capital Hybrid Collision Accelerator II,No,T2,None,Components,-57370352.47,-2134313.71,0.56,92570354.81,35200002.34,13,15
+Rig,Large Targeting Systems Stabilizer II,No,T2,None,Components,-57965463.24,-2875270.99,0.42,61965463.26,4000000.02,1,7
+Rig,Capital Algid Hybrid Administrations Unit II,No,T2,None,Components,-58858512.61,-2189676.81,-,70858512.61,12000000,1,10
+Rig,Large Core Defense Operational Solidifier II,No,T2,None,Components,-61709289.61,-3060976.67,2.1,261709290.9,200000001.3,27,45
+Rig,Large Anti-Explosive Pump II,No,T2,None,Components,-62956579.28,-3122846.19,2.94,282957048.5,220000469.3,29,50
+Rig,Large Auxiliary Thrusters II,No,T2,None,Components,-64721184.97,-3210376.24,0.84,73341053.07,8619868.1,35,14
+Rig,Large Polycarbon Engine Housing II,Yes,T2,Unknown,Components,-65190360.8,-3104302.9,1.31,74190361.9,9000001.1,17,34
+Rig,Large Polycarbon Engine Housing II,No,T2,None,Components,-65197049.76,-3233980.64,1.26,74197050.86,9000001.1,17,34
+Rig,Capital Warhead Rigor Catalyst II,No,T2,None,Components,-75360277.28,-2803581.74,1.12,476738278.5,401378001.2,24,15
+Rig,Capital Core Defense Charge Economizer II,No,T2,None,Components,-76558109.69,-2848143.96,0.56,78560110.51,2002000.82,100,14
+Rig,Capital Anti-Kinetic Screen Reinforcer II,No,T2,None,Components,-82071529.79,-3053256.32,0.56,102053679.3,19982149.52,5,17
+Rig,Large Warp Core Optimizer II,No,T2,None,Components,-89453714.24,-4437188.21,0.42,101893780.3,12440066.1,22,1
+Rig,Capital Projectile Metastasis Adjuster II,No,T2,None,Components,-90474183.65,-3365855.05,0.56,230474183.8,140000000.1,12,36
+Rig,Capital Warhead Flare Catalyst II,No,T2,None,Components,-103192495.1,-3839006.51,0.56,415192506.1,312000011,10,3
+Rig,Large Drone Speed Augmentor II,No,T2,None,Components,-109320126.1,-5422625.3,0.42,221320337.4,112000211.3,13,8
+Rig,Large Anti-Thermal Pump II,No,T2,None,Components,-111131994.7,-5512499.74,0.84,281132032.8,170000038.1,24,21
+Rig,Capital Particle Dispersion Augmentor II,No,T2,None,Components,-116686818.5,-4341027.48,-,116686818.5,0,0,2
+Rig,Capital Projectile Burst Aerator II,No,T2,None,Components,-119939896.2,-4462049.71,0.56,341940848,222000951.8,8,26
+Rig,Large Anti-EM Pump II,No,T2,None,Components,-120381630.5,-5971311.04,0.84,280781631.4,160400000.9,9,59
+Rig,Large Drone Scope Chip II,Yes,T2,Unknown,Components,-125405796.5,-5971704.6,0.88,143405796.5,18000000.04,138,43
+Rig,Large Drone Scope Chip II,No,T2,None,Components,-125409598,-6220714.18,0.84,143409598,18000000.04,138,43
+Rig,Large Drone Durability Enhancer II,No,T2,None,Components,-126712456.9,-6285340.12,0.42,246714799.3,120002342.4,14,51
+Rig,Large Anti-Kinetic Pump II,No,T2,None,Components,-130402031.4,-6468354.73,0.84,280402031.4,150000000,10,33
+Rig,Capital Signal Disruption Amplifier II,No,T2,None,Components,-134641119.2,-5008970.21,-,134641119.2,0,0,6
+Rig,Large Drone Repair Augmentor II,No,T2,None,Components,-136973321.1,-6794311.56,0.84,142973321.1,6000000.02,1,9
+Rig,Capital Gravity Capacitor Upgrade II,No,T2,None,Components,-139380299.9,-5185279.01,0.56,139580299.9,200000,3,10
+Rig,Capital Inverted Signal Field Projector II,No,T2,None,Components,-141863968.8,-5277677.41,-,141863968.8,0,0,6
+Rig,Capital Processor Overclocking Unit II,No,T2,None,Components,-148773515.7,-5534729.01,0.56,168551299.2,19777783.54,14,22
+Rig,Capital Liquid Cooled Electronics II,No,T2,None,Components,-154340408.2,-5741830.66,1.12,168340410.2,14000002,6,3
+Rig,Capital Egress Port Maximizer II,No,T2,None,Components,-157681027.3,-5866109.65,1.12,189681027.3,32000000,3,28
+Rig,Capital Powergrid Subroutine Maximizer II,No,T2,None,Components,-157700256.8,-5866825.03,2.24,189680298.8,31980042,8,3
+Rig,Capital Egress Port Maximizer II,Yes,T2,Unknown,Components,-159991738.2,-5713990.65,1.17,191991738.2,32000000,3,28
+Rig,Capital Memetic Algorithm Bank II,No,T2,None,Components,-167829510.1,-6243657.37,-,167829510.1,0,0,11
+Rig,Capital Emission Scope Sharpener II,No,T2,None,Components,-167842816.5,-6244152.4,-,167842816.5,0,0,20
+Rig,Capital Trimark Armor Pump II,No,T2,None,Components,-167940109.1,-6247771.92,15.68,1387940129,1220000020,28,39
+Rig,Capital Memetic Algorithm Bank II,Yes,T2,Unknown,Components,-170779797.5,-6099278.48,-,170779797.5,0,0,11
+Rig,Capital Dynamic Fuel Valve II,No,T2,None,Components,-180076900.2,-6699289.44,0.56,222309022.2,42232122,3,1
+Rig,Capital Projectile Ambit Extension II,No,T2,None,Components,-182541961.5,-6790995.59,0.56,226986406,44444444.44,4,6
+Rig,Capital Signal Focusing Kit II,No,T2,None,Components,-183134538.2,-6813040.85,-,183134538.2,0,0,0
+Rig,Capital Ionic Field Projector II,No,T2,None,Components,-204680116.9,-7614587.68,0.56,304680171.5,100000054.6,18,3
+Rig,Large Sentry Damage Augmentor II,No,T2,None,Components,-210220655.7,-10427611.89,0.42,282220655.7,72000000.02,36,24
+Rig,Capital Ionic Field Projector II,Yes,T2,Unknown,Components,-210641830.6,-7522922.52,0.58,310641885.2,100000054.6,18,3
+Rig,Capital Projectile Locus Coordinator II,No,T2,None,Components,-225364283.8,-8384087.94,-,225364283.8,0,0,12
+Rig,Capital Engine Thermal Shielding II,No,T2,None,Components,-230435910.7,-8572764.54,-,259755914.7,29320004,5,1
+Rig,Capital Targeting System Subcontroller II,No,T2,None,Components,-243220169.5,-9048369.4,-,303220169.5,60000000,15,6
+Rig,Capital Low Friction Nozzle Joints II,No,T2,None,Components,-244248312.8,-9086618.78,1.12,365581911.7,121333598.9,15,17
+Rig,Capital Cargohold Optimization II,No,T2,None,Components,-258017739.9,-9598874.25,1.12,368017739.9,110000000,6,42
+Rig,Capital Particle Dispersion Projector II,No,T2,None,Components,-271923452.5,-10116199.87,2.24,271923452.5,0,0,1
+Rig,Capital Tracking Diagnostic Subroutines II,No,T2,None,Components,-271923452.5,-10116199.87,-,271923452.5,0,0,6
+Rig,Large Stasis Drone Augmentor II,No,T2,None,Components,-273968596.8,-13589712.14,-,309968596.8,36000000.02,4,8
+Rig,Capital Particle Dispersion Projector II,Yes,T2,Unknown,Components,-275906808.4,-9853814.59,2.33,275906808.4,0,0,1
+Rig,Capital Polycarbon Engine Housing II,No,T2,None,Components,-282095484,-10494623.66,1.12,366095514.5,84000030.54,6,10
+Rig,Capital Targeting Systems Stabilizer II,No,T2,None,Components,-296110537.3,-11016017.01,-,301216538.5,5106001.2,7,0
+Rig,Large Salvage Tackle II,No,T2,None,Components,-300958328.1,-14928488.5,-,332958330.3,32000002.14,5,1
+Rig,Capital Warhead Calefaction Catalyst II,No,T2,None,Components,-319835968.9,-11898659.56,-,520059662,200223693.1,14,9
+Rig,Capital Projectile Collision Accelerator II,No,T2,None,Components,-320373686,-11918663.92,0.56,390405014.6,70031328.52,12,14
+Rig,Capital Auxiliary Thrusters II,No,T2,None,Components,-361153335.3,-13435763.96,-,361153335.3,0,1000,6
+Rig,Capital Semiconductor Memory Cell II,No,T2,None,Components,-366726733.3,-13643107.64,1.12,768952016.8,402225283.4,6,21
+Rig,Capital Hydraulic Bay Thrusters II,No,T2,None,Components,-419265752.9,-15597684.26,0.56,463710203.9,44444450.98,9,18
+Rig,Capital Rocket Fuel Cache Partition II,No,T2,None,Components,-421063532.4,-15664565.94,-,465263535.1,44200002.7,2,2
+Rig,Capital Bay Loading Accelerator II,No,T2,None,Components,-432571569.6,-16092692.32,-,482971590,50400020.38,8,1
+Rig,Capital Bay Loading Accelerator II,Yes,T2,Unknown,Components,-440495775,-15731991.96,-,490895795.4,50400020.38,8,1
+Rig,Capital Warp Core Optimizer II,No,T2,None,Components,-489347957.3,-18204909.12,0.56,495347957.3,6000000.02,0,3
+Rig,Capital Drone Durability Enhancer II,No,T2,None,Components,-516019971.4,-19197171.56,1.12,1216019971,700000000,31,4
+Rig,Capital Drone Control Range Augmentor II,No,T2,None,Components,-542268859.1,-20173692.67,1.12,702268947.4,160000088.3,13,1
+Rig,Capital Drone Scope Chip II,No,T2,None,Components,-580808916.6,-21607474.58,1.12,700808945.2,120000028.6,6,5
+Rig,Capital Drone Speed Augmentor II,No,T2,None,Components,-677225536.2,-25194402.39,0.56,1077225536,400000000,2,13
+Rig,Capital Ancillary Current Router II,No,T2,None,Components,-679939021,-25295350.48,0.56,1179939026,500000005.3,7,9
+Rig,Capital Drone Repair Augmentor II,No,T2,None,Components,-696437683.7,-25909140.02,-,696437683.7,0,0,0
+Rig,Capital Auxiliary Nano Pump II,No,T2,None,Components,-842603401.5,-31346852.73,0.56,1664826144,822222742.1,13,10
+Rig,Capital Core Defense Operational Solidifier II,No,T2,None,Components,-951768608.3,-35408058.35,0.56,1262879720,311111111.5,8,0
+Rig,Capital Anti-Explosive Pump II,No,T2,None,Components,-1024984962,-38131881.03,0.56,1347184962,322200000,10,9
+Rig,Capital Nanobot Accelerator II,No,T2,None,Components,-1056714969,-39312312.84,0.56,1656715015,600000046,7,1
+Rig,Capital Nanobot Accelerator II,Yes,T2,Unknown,Components,-1080764400,-38598728.58,0.58,1680764446,600000046,7,1
+Rig,Capital Core Defense Field Purger II,No,T2,None,Components,-1087727269,-40466044.24,1.12,1257729236,170001966.9,12,14
+Rig,Capital Anti-Thermal Pump II,No,T2,None,Components,-1239074662,-46096527.61,-,1339074662,100000000,1,12
+Rig,Capital Anti-Thermal Pump II,Yes,T2,Unknown,Components,-1251381395,-44692192.68,-,1351381395,100000000,1,12
+Rig,Capital Sentry Damage Augmentor II,No,T2,None,Components,-1252136674,-46582465.57,-,1362136939,110000264.2,10,2
+Rig,Capital Anti-Kinetic Pump II,No,T2,None,Components,-1304554113,-48532519.09,-,1336594122,32040009.38,10,0
+Rig,Capital Anti-EM Pump II,No,T2,None,Components,-1335424762,-49680980.73,-,1335424762,0,0,1
+Rig,Capital Remote Repair Augmentor II,No,T2,None,Components,-1469929271,-54684868.73,1.12,1641061334,171132062.4,5,12
+Rig,Capital Stasis Drone Augmentor II,No,T2,None,Components,-1499438237,-55782672.5,-,1499438237,0,2,0
+Rig,Capital Salvage Tackle II,No,T2,None,Components,-1610897086,-59929207.07,1.68,1635721090,24824003.66,5,0
