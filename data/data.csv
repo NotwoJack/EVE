@@ -1,353 +1,935 @@
-Item Category,Item Name,Profit
-Rig,Capital Hyperspatial Velocity Optimizer II,99945853.67 
-Rig,Capital Energy Burst Aerator II,42833707.85 
-Rig,Large Hydraulic Bay Thrusters II,27517589.78 
-Rig,Capital Core Defense Capacitor Safeguard II,23412562.00 
-Rig,Large Hyperspatial Velocity Optimizer II,17760646.69 
-Rig,Large Anti-Thermal Screen Reinforcer II,16010076.53 
-Rig,Large Egress Port Maximizer II,13396160.57 
-Rig,Large Egress Port Maximizer II,13393751.05 
-Rig,Capital Energy Collision Accelerator II,12801072.14 
-Rig,Large Hybrid Locus Coordinator II,12496986.61 
-Rig,Large Warhead Rigor Catalyst II,11967071.54 
-Rig,Large Drone Control Range Augmentor II,11407409.45 
-Rig,Medium Ionic Field Projector II,10549374.14 
-Rig,Medium Drone Speed Augmentor II,9286956.80 
-Rig,Large Semiconductor Memory Cell II,8629445.29 
-Rig,Large Warhead Calefaction Catalyst II,8542413.28 
-Rig,Medium Core Defense Operational Solidifier II,8511105.70 
-Rig,Large Anti-EM Screen Reinforcer II,8200444.59 
-Rig,Medium Drone Mining Augmentor II,8101016.53 
-Rig,Medium Hydraulic Bay Thrusters II,8041771.36 
-Rig,Medium Energy Collision Accelerator II,7547308.00 
-Rig,Large Bay Loading Accelerator II,7362110.89 
-Rig,Large Hybrid Burst Aerator II,6986308.74 
-Rig,Large Warhead Flare Catalyst II,6710717.70 
-Rig,Small Signal Focusing Kit II,6592490.67 
-Rig,Medium Low Friction Nozzle Joints II,6426239.56 
-Rig,Medium Low Friction Nozzle Joints II,6425324.48 
-Rig,Medium Transverse Bulkhead II,5998909.86 
-Rig,Medium Polycarbon Engine Housing II,5967424.85 
-Rig,Large Capacitor Control Circuit II,5229869.70 
-Rig,Medium Auxiliary Thrusters II,5088944.46 
-Rig,Medium Auxiliary Thrusters II,5088029.38 
-Rig,Medium Hyperspatial Velocity Optimizer II,4699721.24 
-Rig,Small Ionic Field Projector II,4435972.38 
-Rig,Medium Energy Locus Coordinator II,4313233.19 
-Rig,Medium Hybrid Burst Aerator II,4305963.38 
-Rig,Small Gravity Capacitor Upgrade II,4288053.81 
-Rig,Small Hybrid Burst Aerator II,4236316.07 
-Rig,Small Hydraulic Bay Thrusters II,4209480.15 
-Rig,Medium Semiconductor Memory Cell II,4018636.98 
-Rig,Medium Semiconductor Memory Cell II,4016134.70 
-Rig,Medium Anti-Kinetic Screen Reinforcer II,3954898.61 
-Rig,Medium Cargohold Optimization II,3908135.66 
-Rig,Medium Cargohold Optimization II,3906781.35 
-Rig,Medium Hybrid Metastasis Adjuster II,3807322.89 
-Rig,Medium Anti-EM Screen Reinforcer II,3761648.84 
-Rig,Small Ancillary Current Router II,3728079.40 
-Rig,Small Ancillary Current Router II,3727378.66 
-Rig,Medium Core Defense Capacitor Safeguard II,3698689.85 
-Rig,Small Processor Overclocking Unit II,3447895.52 
-Rig,Small Anti-EM Screen Reinforcer II,3364489.79 
-Rig,Medium Processor Overclocking Unit II,3362729.23 
-Rig,Medium Energy Burst Aerator II,3308143.66 
-Rig,Medium Energy Burst Aerator II,3307923.04 
-Rig,Small Energy Locus Coordinator II,3202855.27 
-Rig,Large Transverse Bulkhead II,3113194.30 
-Rig,Medium Bay Loading Accelerator II,3056298.19 
-Rig,Large Energy Metastasis Adjuster II,3012151.87 
-Rig,Small Salvage Tackle II,2959070.02 
-Rig,Small Semiconductor Memory Cell II,2881344.84 
-Rig,Small Semiconductor Memory Cell II,2880820.16 
-Rig,Small Bay Loading Accelerator II,2792857.38 
-Rig,Large Hybrid Collision Accelerator II,2776783.42 
-Rig,Medium Rocket Fuel Cache Partition II,2705034.30 
-Rig,Small Particle Dispersion Projector II,2700018.34 
-Rig,Small Low Friction Nozzle Joints II,2695916.06 
-Rig,Small Anti-Thermal Screen Reinforcer II,2613678.08 
-Rig,Medium Anti-Thermal Screen Reinforcer II,2611230.03 
-Rig,Small Energy Collision Accelerator II,2433990.08 
-Rig,Small Projectile Collision Accelerator II,2415572.43 
-Rig,Small Transverse Bulkhead II,2312619.16 
-Rig,Small Cargohold Optimization II,2222356.43 
-Rig,Small Auxiliary Thrusters II,2195116.93 
-Rig,Small Capacitor Control Circuit II,2170083.65 
-Rig,Small Capacitor Control Circuit II,2169856.18 
-Rig,Large Energy Collision Accelerator II,2067479.50 
-Rig,Small Warhead Calefaction Catalyst II,2044838.68 
-Rig,Small Energy Discharge Elutriation II,1973462.94 
-Rig,Small Energy Discharge Elutriation II,1973446.07 
-Rig,Small Projectile Burst Aerator II,1937665.85 
-Rig,Medium Projectile Ambit Extension II,1921453.52 
-Rig,Medium Core Defense Charge Economizer II,1874721.20 
-Rig,Small Core Defense Capacitor Safeguard II,1836389.25 
-Rig,Small Rocket Fuel Cache Partition II,1829075.93 
-Rig,Large Rocket Fuel Cache Partition II,1820387.01 
-Rig,Medium Energy Discharge Elutriation II,1783514.88 
-Rig,Small Targeting System Subcontroller II,1720947.08 
-Rig,Medium Anti-Explosive Screen Reinforcer II,1681203.41 
-Rig,Small Hybrid Metastasis Adjuster II,1567416.84 
-Rig,Small Particle Dispersion Augmentor II,1533814.35 
-Rig,Small Anti-Explosive Pump II,1471337.21 
-Rig,Small Anti-Explosive Pump II,1470774.48 
-Rig,Small Hyperspatial Velocity Optimizer II,1327365.95 
-Rig,Small Anti-Kinetic Screen Reinforcer II,1246728.04 
-Rig,Small Energy Burst Aerator II,1227675.34 
-Rig,Small Auxiliary Nano Pump II,1161471.69 
-Rig,Small Hybrid Collision Accelerator II,1153103.01 
-Rig,Small Polycarbon Engine Housing II,1074104.36 
-Rig,Small Polycarbon Engine Housing II,1073861.27 
-Rig,Medium Capacitor Control Circuit II,986031.34 
-Rig,Medium Capacitor Control Circuit II,984848.77 
-Rig,Medium Targeting System Subcontroller II,914278.62 
-Rig,Medium Core Defense Field Purger II,803105.93 
-Rig,Small Emission Scope Sharpener II,711462.61 
-Rig,Small Trimark Armor Pump II,697806.51 
-Rig,Large Anti-Kinetic Screen Reinforcer II,594066.69 
-Rig,Small Memetic Algorithm Bank II,576880.48 
-Rig,Large Energy Locus Coordinator II,507054.53 
-Rig,Large Hybrid Metastasis Adjuster II,494473.60 
-Rig,Large Energy Discharge Elutriation II,356248.94 
-Rig,Small Algid Energy Administrations Unit II,131214.55 
-Rig,Small Energy Metastasis Adjuster II,119661.88 
-Rig,Small Anti-Thermal Pump II,116935.29 
-Rig,Medium Energy Metastasis Adjuster II,99780.49 
-Rig,Small Energy Ambit Extension II,81114.34 
-Rig,Small Warhead Flare Catalyst II,15798.22 
-Rig,Small Anti-Explosive Screen Reinforcer II,-28957.21 
-Rig,Medium Memetic Algorithm Bank II,-76968.39 
-Rig,Small Hybrid Ambit Extension II,-99276.08 
-Rig,Small Core Defense Field Extender II,-149178.41 
-Rig,Medium Dynamic Fuel Valve II,-195294.59 
-Rig,Small Projectile Ambit Extension II,-332714.72 
-Rig,Medium Energy Ambit Extension II,-352911.69 
-Rig,Medium Energy Ambit Extension II,-353082.95 
-Rig,Small Engine Thermal Shielding II,-378982.87 
-Rig,Medium Anti-Thermal Pump II,-446357.95 
-Rig,Medium Anti-EM Pump II,-447721.47 
-Rig,Small Nanobot Accelerator II,-461324.38 
-Rig,Small Hybrid Discharge Elutriation II,-479041.92 
-Rig,Medium Hybrid Collision Accelerator II,-511750.06 
-Rig,Small Algid Hybrid Administrations Unit II,-542263.63 
-Rig,Medium Warhead Rigor Catalyst II,-572601.76 
-Rig,Small Hybrid Locus Coordinator II,-581288.16 
-Rig,Medium Hybrid Discharge Elutriation II,-748083.57 
-Rig,Large Energy Ambit Extension II,-841848.21 
-Rig,Medium Algid Energy Administrations Unit II,-909190.13 
-Rig,Large Energy Burst Aerator II,-972604.56 
-Rig,Small Signal Disruption Amplifier II,-999497.39 
-Rig,Small Inverted Signal Field Projector II,-1040661.79 
-Rig,Small Targeting Systems Stabilizer II,-1055865.89 
-Rig,Small Liquid Cooled Electronics II,-1078628.34 
-Rig,Small Projectile Metastasis Adjuster II,-1253410.19 
-Rig,Small Powergrid Subroutine Maximizer II,-1310507.84 
-Rig,Medium Trimark Armor Pump II,-1416351.43 
-Rig,Medium Anti-Kinetic Pump II,-1487554.95 
-Rig,Small Warhead Rigor Catalyst II,-1633461.99 
-Rig,Small Core Defense Charge Economizer II,-1645799.44 
-Rig,Medium Hybrid Ambit Extension II,-1780948.50 
-Rig,Medium Hybrid Locus Coordinator II,-1780968.21 
-Rig,Small Projectile Locus Coordinator II,-1938841.91 
-Rig,Small Warp Core Optimizer II,-1945946.84 
-Rig,Small Warp Core Optimizer II,-1946129.41 
-Rig,Small Anti-Kinetic Pump II,-2002753.49 
-Rig,Small Tracking Diagnostic Subroutines II,-2067381.87 
-Rig,Medium Engine Thermal Shielding II,-2070547.92 
-Rig,Medium Engine Thermal Shielding II,-2071469.77 
-Rig,Medium Warhead Flare Catalyst II,-2223938.70 
-Rig,Medium Signal Focusing Kit II,-2251852.69 
-Rig,Small Egress Port Maximizer II,-2418341.03 
-Rig,Medium Gravity Capacitor Upgrade II,-2443663.57 
-Rig,Medium Ancillary Current Router II,-2532322.83 
-Rig,Large Cargohold Optimization II,-2764201.54 
-Rig,Medium Algid Hybrid Administrations Unit II,-2968150.86 
-Rig,Medium Core Defense Field Extender II,-3050894.51 
-Rig,Small Core Defense Field Purger II,-3251649.20 
-Rig,Large Hybrid Discharge Elutriation II,-3270252.14 
-Rig,Large Hybrid Discharge Elutriation II,-3270708.68 
-Rig,Small Dynamic Fuel Valve II,-3497486.07 
-Rig,Medium Emission Scope Sharpener II,-3871858.10 
-Rig,Medium Inverted Signal Field Projector II,-3986830.41 
-Rig,Large Remote Repair Augmentor II,-4200330.20 
-Rig,Large Drone Mining Augmentor II,-4237985.24 
-Rig,Medium Anti-Explosive Pump II,-4301631.52 
-Rig,Large Algid Energy Administrations Unit II,-4438768.54 
-Rig,Small Drone Control Range Augmentor II,-4502456.61 
-Rig,Medium Warhead Calefaction Catalyst II,-4638451.28 
-Rig,Large Ancillary Current Router II,-4891494.67 
-Rig,Medium Auxiliary Nano Pump II,-4908264.25 
-Rig,Small Anti-EM Pump II,-4933716.31 
-Rig,Medium Nanobot Accelerator II,-4938517.40 
-Rig,Capital Hybrid Metastasis Adjuster II,-4965021.97 
-Rig,Capital Anti-EM Screen Reinforcer II,-4974323.22 
-Rig,Medium Particle Dispersion Projector II,-5182175.61 
-Rig,Medium Signal Disruption Amplifier II,-5462236.62 
-Rig,Small Drone Speed Augmentor II,-5623957.44 
-Rig,Medium Liquid Cooled Electronics II,-5713440.29 
-Rig,Medium Projectile Metastasis Adjuster II,-5979247.37 
-Rig,Medium Particle Dispersion Augmentor II,-6212715.61 
-Rig,Medium Particle Dispersion Augmentor II,-6213215.66 
-Rig,Medium Projectile Locus Coordinator II,-6749892.72 
-Rig,Medium Projectile Locus Coordinator II,-6750045.15 
-Rig,Large Processor Overclocking Unit II,-6986267.90 
-Rig,Medium Projectile Collision Accelerator II,-7152007.83 
-Rig,Medium Targeting Systems Stabilizer II,-7256205.89 
-Rig,Large Core Defense Field Purger II,-7711216.83 
-Rig,Large Core Defense Field Purger II,-7723797.97 
-Rig,Large Ancillary Current Router II,-7805566.43 
-Rig,Small Drone Scope Chip II,-8082823.84 
-Rig,Small Drone Durability Enhancer II,-8098381.48 
-Rig,Medium Powergrid Subroutine Maximizer II,-8316930.18 
-Rig,Medium Powergrid Subroutine Maximizer II,-8317404.91 
-Rig,Small Drone Mining Augmentor II,-8356596.34 
-Rig,Large Core Defense Field Extender II,-8485527.68 
-Rig,Small Core Defense Operational Solidifier II,-8527712.82 
-Rig,Large Core Defense Capacitor Safeguard II,-8582880.23 
-Rig,Small Drone Repair Augmentor II,-8687973.64 
-Rig,Capital Energy Discharge Elutriation II,-8741141.34 
-Rig,Medium Salvage Tackle II,-8946680.14 
-Rig,Small Remote Repair Augmentor II,-9028606.73 
-Rig,Small Sentry Damage Augmentor II,-9108130.05 
-Rig,Capital Transverse Bulkhead II,-9142219.64 
-Rig,Medium Warp Core Optimizer II,-9217666.78 
-Rig,Small Stasis Drone Augmentor II,-9217688.74 
-Rig,Small Stasis Drone Augmentor II,-9218108.54 
-Rig,Medium Egress Port Maximizer II,-9608546.34 
-Rig,Medium Remote Repair Augmentor II,-9717477.88 
-Rig,Medium Projectile Burst Aerator II,-9775070.37 
-Rig,Large Algid Hybrid Administrations Unit II,-10467883.77 
-Rig,Capital Energy Metastasis Adjuster II,-10729891.25 
-Rig,Capital Energy Locus Coordinator II,-10729892.21 
-Rig,Large Anti-Explosive Screen Reinforcer II,-10929240.41 
-Rig,Medium Drone Control Range Augmentor II,-11040075.62 
-Rig,Large Hybrid Ambit Extension II,-11144707.13 
-Rig,Medium Tracking Diagnostic Subroutines II,-11487321.26 
-Rig,Large Core Defense Charge Economizer II,-13814801.66 
-Rig,Large Particle Dispersion Augmentor II,-14803108.19 
-Rig,Large Targeting System Subcontroller II,-15786204.13 
-Rig,Medium Sentry Damage Augmentor II,-17340868.34 
-Rig,Capital Energy Ambit Extension II,-18437992.21 
-Rig,Large Projectile Burst Aerator II,-18654497.99 
-Rig,Medium Drone Scope Chip II,-20693757.00 
-Rig,Capital Hybrid Discharge Elutriation II,-21094906.09 
-Rig,Capital Algid Energy Administrations Unit II,-21382216.76 
-Rig,Large Projectile Metastasis Adjuster II,-23788135.93 
-Rig,Large Ionic Field Projector II,-23851273.86 
-Rig,Large Ionic Field Projector II,-23856762.96 
-Rig,Large Trimark Armor Pump II,-24364580.51 
-Rig,Large Projectile Ambit Extension II,-24368531.59 
-Rig,Medium Drone Durability Enhancer II,-25525173.45 
-Rig,Large Gravity Capacitor Upgrade II,-26007501.24 
-Rig,Large Gravity Capacitor Upgrade II,-26008544.21 
-Rig,Large Signal Disruption Amplifier II,-26778335.72 
-Rig,Large Inverted Signal Field Projector II,-27484992.40 
-Rig,Capital Core Defense Field Extender II,-27840620.67 
-Rig,Medium Drone Repair Augmentor II,-28575506.48 
-Rig,Capital Capacitor Control Circuit II,-29221203.11 
-Rig,Large Projectile Locus Coordinator II,-33712180.00 
-Rig,Large Liquid Cooled Electronics II,-34125565.10 
-Rig,Large Memetic Algorithm Bank II,-34157268.87 
-Rig,Large Emission Scope Sharpener II,-34159925.35 
-Rig,Large Low Friction Nozzle Joints II,-34481854.49 
-Rig,Large Low Friction Nozzle Joints II,-34486427.85 
-Rig,Large Powergrid Subroutine Maximizer II,-34778850.93 
-Rig,Large Powergrid Subroutine Maximizer II,-34781260.45 
-Rig,Large Signal Focusing Kit II,-37445276.31 
-Rig,Large Dynamic Fuel Valve II,-39164617.75 
-Rig,Capital Hybrid Locus Coordinator II,-39238231.78 
-Rig,Capital Anti-Thermal Screen Reinforcer II,-39660326.09 
-Rig,Capital Hybrid Ambit Extension II,-39666454.15 
-Rig,Large Auxiliary Nano Pump II,-40813328.58 
-Rig,Large Nanobot Accelerator II,-40813329.56 
-Rig,Capital Drone Mining Augmentor II,-41529124.91 
-Rig,Large Engine Thermal Shielding II,-43259298.25 
-Rig,Capital Anti-Explosive Screen Reinforcer II,-43490450.25 
-Rig,Large Projectile Collision Accelerator II,-43690337.67 
-Rig,Large Particle Dispersion Projector II,-47889982.18 
-Rig,Capital Hybrid Burst Aerator II,-48537638.36 
-Rig,Large Tracking Diagnostic Subroutines II,-53670982.16 
-Rig,Medium Stasis Drone Augmentor II,-56359409.80 
-Rig,Capital Hybrid Collision Accelerator II,-57370352.47 
-Rig,Large Targeting Systems Stabilizer II,-57965463.24 
-Rig,Capital Algid Hybrid Administrations Unit II,-58858512.61 
-Rig,Large Core Defense Operational Solidifier II,-61709289.61 
-Rig,Large Anti-Explosive Pump II,-62956579.28 
-Rig,Large Auxiliary Thrusters II,-64721184.97 
-Rig,Large Polycarbon Engine Housing II,-65190360.80 
-Rig,Large Polycarbon Engine Housing II,-65197049.76 
-Rig,Capital Warhead Rigor Catalyst II,-75360277.28 
-Rig,Capital Core Defense Charge Economizer II,-76558109.69 
-Rig,Capital Anti-Kinetic Screen Reinforcer II,-82071529.79 
-Rig,Large Warp Core Optimizer II,-89453714.24 
-Rig,Capital Projectile Metastasis Adjuster II,-90474183.65 
-Rig,Capital Warhead Flare Catalyst II,-103192495.10 
-Rig,Large Drone Speed Augmentor II,-109320126.10 
-Rig,Large Anti-Thermal Pump II,-111131994.70 
-Rig,Capital Particle Dispersion Augmentor II,-116686818.50 
-Rig,Capital Projectile Burst Aerator II,-119939896.20 
-Rig,Large Anti-EM Pump II,-120381630.50 
-Rig,Large Drone Scope Chip II,-125405796.50 
-Rig,Large Drone Scope Chip II,-125409598.00 
-Rig,Large Drone Durability Enhancer II,-126712456.90 
-Rig,Large Anti-Kinetic Pump II,-130402031.40 
-Rig,Capital Signal Disruption Amplifier II,-134641119.20 
-Rig,Large Drone Repair Augmentor II,-136973321.10 
-Rig,Capital Gravity Capacitor Upgrade II,-139380299.90 
-Rig,Capital Inverted Signal Field Projector II,-141863968.80 
-Rig,Capital Processor Overclocking Unit II,-148773515.70 
-Rig,Capital Liquid Cooled Electronics II,-154340408.20 
-Rig,Capital Egress Port Maximizer II,-157681027.30 
-Rig,Capital Powergrid Subroutine Maximizer II,-157700256.80 
-Rig,Capital Egress Port Maximizer II,-159991738.20 
-Rig,Capital Memetic Algorithm Bank II,-167829510.10 
-Rig,Capital Emission Scope Sharpener II,-167842816.50 
-Rig,Capital Trimark Armor Pump II,-167940109.10 
-Rig,Capital Memetic Algorithm Bank II,-170779797.50 
-Rig,Capital Dynamic Fuel Valve II,-180076900.20 
-Rig,Capital Projectile Ambit Extension II,-182541961.50 
-Rig,Capital Signal Focusing Kit II,-183134538.20 
-Rig,Capital Ionic Field Projector II,-204680116.90 
-Rig,Large Sentry Damage Augmentor II,-210220655.70 
-Rig,Capital Ionic Field Projector II,-210641830.60 
-Rig,Capital Projectile Locus Coordinator II,-225364283.80 
-Rig,Capital Engine Thermal Shielding II,-230435910.70 
-Rig,Capital Targeting System Subcontroller II,-243220169.50 
-Rig,Capital Low Friction Nozzle Joints II,-244248312.80 
-Rig,Capital Cargohold Optimization II,-258017739.90 
-Rig,Capital Particle Dispersion Projector II,-271923452.50 
-Rig,Capital Tracking Diagnostic Subroutines II,-271923452.50 
-Rig,Large Stasis Drone Augmentor II,-273968596.80 
-Rig,Capital Particle Dispersion Projector II,-275906808.40 
-Rig,Capital Polycarbon Engine Housing II,-282095484.00 
-Rig,Capital Targeting Systems Stabilizer II,-296110537.30 
-Rig,Large Salvage Tackle II,-300958328.10 
-Rig,Capital Warhead Calefaction Catalyst II,-319835968.90 
-Rig,Capital Projectile Collision Accelerator II,-320373686.00 
-Rig,Capital Auxiliary Thrusters II,-361153335.30 
-Rig,Capital Semiconductor Memory Cell II,-366726733.30 
-Rig,Capital Hydraulic Bay Thrusters II,-419265752.90 
-Rig,Capital Rocket Fuel Cache Partition II,-421063532.40 
-Rig,Capital Bay Loading Accelerator II,-432571569.60 
-Rig,Capital Bay Loading Accelerator II,-440495775.00 
-Rig,Capital Warp Core Optimizer II,-489347957.30 
-Rig,Capital Drone Durability Enhancer II,-516019971.40 
-Rig,Capital Drone Control Range Augmentor II,-542268859.10 
-Rig,Capital Drone Scope Chip II,-580808916.60 
-Rig,Capital Drone Speed Augmentor II,-677225536.20 
-Rig,Capital Ancillary Current Router II,-679939021.00 
-Rig,Capital Drone Repair Augmentor II,-696437683.70 
-Rig,Capital Auxiliary Nano Pump II,-842603401.50 
-Rig,Capital Core Defense Operational Solidifier II,-951768608.30 
-Rig,Capital Anti-Explosive Pump II,-1024984962.00 
-Rig,Capital Nanobot Accelerator II,-1056714969.00 
-Rig,Capital Nanobot Accelerator II,-1080764400.00 
-Rig,Capital Core Defense Field Purger II,-1087727269.00 
-Rig,Capital Anti-Thermal Pump II,-1239074662.00 
-Rig,Capital Anti-Thermal Pump II,-1251381395.00 
-Rig,Capital Sentry Damage Augmentor II,-1252136674.00 
-Rig,Capital Anti-Kinetic Pump II,-1304554113.00 
-Rig,Capital Anti-EM Pump II,-1335424762.00 
-Rig,Capital Remote Repair Augmentor II,-1469929271.00 
-Rig,Capital Stasis Drone Augmentor II,-1499438237.00 
-Rig,Capital Salvage Tackle II,-1610897086.00 
+Category,Item Name,Total Runs,Profit
+Rig,Capital Algid Energy Administrations Unit II,2,-21475330.87
+Rig,Capital Algid Hybrid Administrations Unit II,2,-58949380.35
+Rig,Capital Ancillary Current Router II,2,-695248614.5
+Rig,Capital Anti-EM Pump II,2,-1339646936
+Rig,Capital Anti-EM Screen Reinforcer II,2,20315945.48
+Rig,Capital Anti-Explosive Pump II,2,-855969835.5
+Rig,Capital Anti-Explosive Screen Reinforcer II,2,-41324184.02
+Rig,Capital Anti-Kinetic Pump II,2,-1308776286
+Rig,Capital Anti-Kinetic Screen Reinforcer II,2,-79905263.55
+Rig,Capital Anti-Thermal Pump II,2,-1243296836
+Rig,Capital Anti-Thermal Pump II,2,-1255644600
+Rig,Capital Anti-Thermal Screen Reinforcer II,2,-22078058.66
+Rig,Capital Auxiliary Nano Pump II,2,-847745856.6
+Rig,Capital Auxiliary Thrusters II,2,-375926052.3
+Rig,Capital Bay Loading Accelerator II,2,-440586547.9
+Rig,Capital Bay Loading Accelerator II,2,-448650922.4
+Rig,Capital Capacitor Control Circuit II,2,-39775851.52
+Rig,Capital Cargohold Optimization II,2,-229806153.9
+Rig,Capital Core Defense Capacitor Safeguard II,2,24494154.1
+Rig,Capital Core Defense Charge Economizer II,2,-74913476.17
+Rig,Capital Core Defense Field Extender II,2,-84334931.76
+Rig,Capital Core Defense Field Purger II,2,-1009296535
+Rig,Capital Core Defense Operational Solidifier II,2,-940780979.1
+Rig,Capital Drone Control Range Augmentor II,2,-582763174.8
+Rig,Capital Drone Durability Enhancer II,2,-593466367
+Rig,Capital Drone Mining Augmentor II,2,-11994640.37
+Rig,Capital Drone Repair Augmentor II,2,-736932224.5
+Rig,Capital Drone Scope Chip II,2,-621303232.7
+Rig,Capital Drone Speed Augmentor II,2,-753010114.8
+Rig,Capital Dynamic Fuel Valve II,2,-182286668.2
+Rig,Capital Egress Port Maximizer II,2,-138222636.8
+Rig,Capital Egress Port Maximizer II,2,-140530689
+Rig,Capital Emission Scope Sharpener II,2,-167596277.8
+Rig,Capital Energy Ambit Extension II,2,-18521878.76
+Rig,Capital Energy Burst Aerator II,2,42726252.7
+Rig,Capital Energy Collision Accelerator II,2,12683958.99
+Rig,Capital Energy Discharge Elutriation II,2,-8787397.55
+Rig,Capital Energy Locus Coordinator II,2,-10813778.76
+Rig,Capital Energy Metastasis Adjuster II,2,-5032778.74
+Rig,Capital Engine Thermal Shielding II,2,-230808380.9
+Rig,Capital Gravity Capacitor Upgrade II,2,-139184817.8
+Rig,Capital Hybrid Ambit Extension II,2,-39748648.51
+Rig,Capital Hybrid Burst Aerator II,2,-48642562.48
+Rig,Capital Hybrid Collision Accelerator II,2,-57484513.31
+Rig,Capital Hybrid Discharge Elutriation II,2,-21140593.29
+Rig,Capital Hybrid Locus Coordinator II,2,-39320426.14
+Rig,Capital Hybrid Metastasis Adjuster II,2,-5047216.33
+Rig,Capital Hydraulic Bay Thrusters II,2,-426131946.8
+Rig,Capital Hyperspatial Velocity Optimizer II,2,-13951735.57
+Rig,Capital Inverted Signal Field Projector II,2,-141748321.3
+Rig,Capital Ionic Field Projector II,2,-211719606.3
+Rig,Capital Ionic Field Projector II,2,-217824280.7
+Rig,Capital Liquid Cooled Electronics II,2,-154093523.4
+Rig,Capital Low Friction Nozzle Joints II,2,-259021029.8
+Rig,Capital Memetic Algorithm Bank II,2,-167582625.3
+Rig,Capital Memetic Algorithm Bank II,2,-170527540.5
+Rig,Capital Nanobot Accelerator II,2,-1061857424
+Rig,Capital Nanobot Accelerator II,2,-1085988720
+Rig,Capital Particle Dispersion Augmentor II,2,-116597199.1
+Rig,Capital Particle Dispersion Projector II,2,-278297517.5
+Rig,Capital Particle Dispersion Projector II,2,-282376627.8
+Rig,Capital Polycarbon Engine Housing II,2,-282779792.5
+Rig,Capital Powergrid Subroutine Maximizer II,2,-157511868.2
+Rig,Capital Processor Overclocking Unit II,2,-148526630.9
+Rig,Capital Projectile Ambit Extension II,2,-182624572.8
+Rig,Capital Projectile Burst Aerator II,2,-120043510.2
+Rig,Capital Projectile Collision Accelerator II,2,-320488577.5
+Rig,Capital Projectile Locus Coordinator II,2,-225446895
+Rig,Capital Projectile Metastasis Adjuster II,2,-90556786.92
+Rig,Capital Remote Repair Augmentor II,2,-580107468.7
+Rig,Capital Rocket Fuel Cache Partition II,2,-427929850.9
+Rig,Capital Salvage Tackle II,2,-1639957569
+Rig,Capital Semiconductor Memory Cell II,2,-390246541
+Rig,Capital Sentry Damage Augmentor II,2,-1343713899
+Rig,Capital Signal Disruption Amplifier II,2,-134440514.4
+Rig,Capital Signal Focusing Kit II,2,-187381707
+Rig,Capital Stasis Drone Augmentor II,2,-1600079988
+Rig,Capital Targeting System Subcontroller II,2,-250259658.9
+Rig,Capital Targeting Systems Stabilizer II,2,-303150026.8
+Rig,Capital Tracking Diagnostic Subroutines II,2,-278297517.5
+Rig,Capital Transverse Bulkhead II,2,-9712025.62
+Rig,Capital Trimark Armor Pump II,2,-152897829.1
+Rig,Capital Warhead Calefaction Catalyst II,2,-328573063.7
+Rig,Capital Warhead Flare Catalyst II,2,-109426288.9
+Rig,Capital Warhead Rigor Catalyst II,2,-82226471.13
+Rig,Capital Warp Core Optimizer II,2,-514466564.7
+Rig,Large Algid Energy Administrations Unit II,2,-4457759.98
+Rig,Large Algid Hybrid Administrations Unit II,2,-14340520
+Rig,Large Ancillary Current Router II,2,-7980687.84
+Rig,Large Ancillary Current Router II,2,-10940842.62
+Rig,Large Anti-EM Pump II,2,-121251898.3
+Rig,Large Anti-EM Screen Reinforcer II,2,8640865.6
+Rig,Large Anti-Explosive Pump II,2,-63826841.91
+Rig,Large Anti-Explosive Screen Reinforcer II,2,-10488869.05
+Rig,Large Anti-Kinetic Pump II,2,-131272299.2
+Rig,Large Anti-Kinetic Screen Reinforcer II,2,1034438.4
+Rig,Large Anti-Thermal Pump II,2,-92732231.51
+Rig,Large Anti-Thermal Screen Reinforcer II,2,16450452.86
+Rig,Large Auxiliary Nano Pump II,2,-41858632.39
+Rig,Large Auxiliary Thrusters II,2,-67694971.6
+Rig,Large Bay Loading Accelerator II,2,15346622.35
+Rig,Large Capacitor Control Circuit II,2,3087114.92
+Rig,Large Cargohold Optimization II,2,-2905504.33
+Rig,Large Core Defense Capacitor Safeguard II,2,-8366683.55
+Rig,Large Core Defense Charge Economizer II,2,-13486240.47
+Rig,Large Core Defense Field Extender II,2,-6255075.6
+Rig,Large Core Defense Field Purger II,2,-5467709.15
+Rig,Large Core Defense Field Purger II,2,-5480617.54
+Rig,Large Core Defense Operational Solidifier II,2,-59478872.54
+Rig,Large Drone Control Range Augmentor II,2,3151314.49
+Rig,Large Drone Durability Enhancer II,2,-142468906.3
+Rig,Large Drone Mining Augmentor II,2,-21190725
+Rig,Large Drone Repair Augmentor II,2,-145229463.8
+Rig,Large Drone Scope Chip II,2,-133661795.5
+Rig,Large Drone Scope Chip II,2,-133665695.8
+Rig,Large Drone Speed Augmentor II,2,-124753895.1
+Rig,Large Dynamic Fuel Valve II,2,-39606262.26
+Rig,Large Egress Port Maximizer II,2,15377120.37
+Rig,Large Egress Port Maximizer II,2,15374648.17
+Rig,Large Emission Scope Sharpener II,2,-34109559.48
+Rig,Large Energy Ambit Extension II,2,-858871.02
+Rig,Large Energy Burst Aerator II,2,-994707.15
+Rig,Large Energy Collision Accelerator II,2,2043432.79
+Rig,Large Energy Discharge Elutriation II,2,346876.35
+Rig,Large Energy Locus Coordinator II,2,490031.71
+Rig,Large Energy Metastasis Adjuster II,2,2995129.05
+Rig,Large Engine Thermal Shielding II,2,-43334354.65
+Rig,Large Gravity Capacitor Upgrade II,2,-23269740.56
+Rig,Large Gravity Capacitor Upgrade II,2,-23270810.66
+Rig,Large Hybrid Ambit Extension II,2,-11161388.53
+Rig,Large Hybrid Burst Aerator II,2,6964720.16
+Rig,Large Hybrid Collision Accelerator II,2,2753341.68
+Rig,Large Hybrid Discharge Elutriation II,2,-3279499.05
+Rig,Large Hybrid Discharge Elutriation II,2,-3279967.47
+Rig,Large Hybrid Locus Coordinator II,2,12480305.36
+Rig,Large Hybrid Metastasis Adjuster II,2,477792.2
+Rig,Large Hydraulic Bay Thrusters II,2,22281696.73
+Rig,Large Hyperspatial Velocity Optimizer II,2,12319984.68
+Rig,Large Inverted Signal Field Projector II,2,-27461459.38
+Rig,Large Ionic Field Projector II,2,-25287802.03
+Rig,Large Ionic Field Projector II,2,-25293433.91
+Rig,Large Liquid Cooled Electronics II,2,-33882346.31
+Rig,Large Low Friction Nozzle Joints II,2,-32830722.14
+Rig,Large Low Friction Nozzle Joints II,2,-32835414.46
+Rig,Large Memetic Algorithm Bank II,2,-34106833.9
+Rig,Large Nanobot Accelerator II,2,-39931633.47
+Rig,Large Particle Dispersion Augmentor II,2,-14784760.83
+Rig,Large Particle Dispersion Projector II,2,-49184013.46
+Rig,Large Polycarbon Engine Housing II,2,-65329671.18
+Rig,Large Polycarbon Engine Housing II,2,-65336534.14
+Rig,Large Powergrid Subroutine Maximizer II,2,-38208911.68
+Rig,Large Powergrid Subroutine Maximizer II,2,-38211383.88
+Rig,Large Processor Overclocking Unit II,2,-6935832.93
+Rig,Large Projectile Ambit Extension II,2,-24385293.4
+Rig,Large Projectile Burst Aerator II,2,-18676176.34
+Rig,Large Projectile Collision Accelerator II,2,-43713926.3
+Rig,Large Projectile Locus Coordinator II,2,-33728945.03
+Rig,Large Projectile Metastasis Adjuster II,2,-23804900.93
+Rig,Large Remote Repair Augmentor II,2,-82325633.66
+Rig,Large Rocket Fuel Cache Partition II,2,419195.68
+Rig,Large Salvage Tackle II,2,-302003631.6
+Rig,Large Semiconductor Memory Cell II,2,4831520.8
+Rig,Large Sentry Damage Augmentor II,2,-229061217.8
+Rig,Large Signal Disruption Amplifier II,2,-26737466.93
+Rig,Large Signal Focusing Kit II,2,-38304244.42
+Rig,Large Stasis Drone Augmentor II,2,-294742264.2
+Rig,Large Targeting System Subcontroller II,2,-17222877.2
+Rig,Large Targeting Systems Stabilizer II,2,-63256236.33
+Rig,Large Tracking Diagnostic Subroutines II,2,-54965013.44
+Rig,Large Transverse Bulkhead II,2,2995882.67
+Rig,Large Trimark Armor Pump II,2,-25235862.3
+Rig,Large Warhead Calefaction Catalyst II,2,6747502.77
+Rig,Large Warhead Flare Catalyst II,2,5445342
+Rig,Large Warhead Rigor Catalyst II,2,10565907.24
+Rig,Large Warp Core Optimizer II,2,-94617899.56
+Rig,Medium Algid Energy Administrations Unit II,2,-566034.71
+Rig,Medium Algid Hybrid Administrations Unit II,2,-2971860.61
+Rig,Medium Ancillary Current Router II,2,-3180196.79
+Rig,Medium Anti-EM Pump II,2,-578918.97
+Rig,Medium Anti-EM Screen Reinforcer II,2,3101601.68
+Rig,Medium Anti-Explosive Pump II,2,-2120405.1
+Rig,Medium Anti-Explosive Screen Reinforcer II,2,1791786.62
+Rig,Medium Anti-Kinetic Pump II,2,-1618756.59
+Rig,Medium Anti-Kinetic Screen Reinforcer II,2,4065446.69
+Rig,Medium Anti-Thermal Pump II,2,-577559.51
+Rig,Medium Anti-Thermal Screen Reinforcer II,2,2721787.78
+Rig,Medium Auxiliary Nano Pump II,2,-5125165.46
+Rig,Medium Auxiliary Thrusters II,2,4614134.24
+Rig,Medium Auxiliary Thrusters II,2,4613195.36
+Rig,Medium Bay Loading Accelerator II,2,2678357.04
+Rig,Medium Capacitor Control Circuit II,2,676624.73
+Rig,Medium Capacitor Control Circuit II,2,675411.39
+Rig,Medium Cargohold Optimization II,2,2919001.1
+Rig,Medium Cargohold Optimization II,2,2917611.56
+Rig,Medium Core Defense Capacitor Safeguard II,2,3734717.89
+Rig,Medium Core Defense Charge Economizer II,2,1909519.88
+Rig,Medium Core Defense Field Extender II,2,-5271337.15
+Rig,Medium Core Defense Field Purger II,2,3357770.06
+Rig,Medium Core Defense Operational Solidifier II,2,-496020.51
+Rig,Medium Drone Control Range Augmentor II,2,-13067998.24
+Rig,Medium Drone Durability Enhancer II,2,-28796093.46
+Rig,Medium Drone Mining Augmentor II,2,4830105.62
+Rig,Medium Drone Repair Augmentor II,2,-30603438.49
+Rig,Medium Drone Scope Chip II,2,11964319.34
+Rig,Medium Drone Speed Augmentor II,2,2189480.4
+Rig,Medium Dynamic Fuel Valve II,2,-244124.81
+Rig,Medium Egress Port Maximizer II,2,-9598468.6
+Rig,Medium Emission Scope Sharpener II,2,-3861727.39
+Rig,Medium Energy Ambit Extension II,2,-356663.15
+Rig,Medium Energy Ambit Extension II,2,-356838.86
+Rig,Medium Energy Burst Aerator II,2,3303105.83
+Rig,Medium Energy Burst Aerator II,2,3302879.48
+Rig,Medium Energy Collision Accelerator II,2,7542263.84
+Rig,Medium Energy Discharge Elutriation II,2,1781645.18
+Rig,Medium Energy Locus Coordinator II,2,296606.86
+Rig,Medium Energy Metastasis Adjuster II,2,96218.18
+Rig,Medium Engine Thermal Shielding II,2,-2079433.45
+Rig,Medium Engine Thermal Shielding II,2,-2080379.27
+Rig,Medium Gravity Capacitor Upgrade II,2,-2435617.37
+Rig,Medium Hybrid Ambit Extension II,2,-1784647.42
+Rig,Medium Hybrid Burst Aerator II,2,4301035.59
+Rig,Medium Hybrid Collision Accelerator II,2,-516680.42
+Rig,Medium Hybrid Discharge Elutriation II,2,-749934.3
+Rig,Medium Hybrid Locus Coordinator II,2,-1784665.34
+Rig,Medium Hybrid Metastasis Adjuster II,2,3803623.96
+Rig,Medium Hydraulic Bay Thrusters II,2,7761540.22
+Rig,Medium Hyperspatial Velocity Optimizer II,2,3480879.43
+Rig,Medium Inverted Signal Field Projector II,2,-3982412.27
+Rig,Medium Ionic Field Projector II,2,10262072.66
+Rig,Medium Liquid Cooled Electronics II,2,-5703295.87
+Rig,Medium Low Friction Nozzle Joints II,2,5951449.94
+Rig,Medium Low Friction Nozzle Joints II,2,5950511.06
+Rig,Medium Memetic Algorithm Bank II,2,-66823.98
+Rig,Medium Nanobot Accelerator II,2,-9012772.05
+Rig,Medium Particle Dispersion Augmentor II,2,-6205540.92
+Rig,Medium Particle Dispersion Augmentor II,2,-6206053.97
+Rig,Medium Particle Dispersion Projector II,2,-5470071.05
+Rig,Medium Polycarbon Engine Housing II,2,5941038.03
+Rig,Medium Powergrid Subroutine Maximizer II,2,-8306839.59
+Rig,Medium Powergrid Subroutine Maximizer II,2,-8307326.66
+Rig,Medium Processor Overclocking Unit II,2,3372873.65
+Rig,Medium Projectile Ambit Extension II,2,1917740.64
+Rig,Medium Projectile Burst Aerator II,2,-9780027.79
+Rig,Medium Projectile Collision Accelerator II,2,-7156966.04
+Rig,Medium Projectile Locus Coordinator II,2,-6753601.47
+Rig,Medium Projectile Locus Coordinator II,2,-6753757.86
+Rig,Medium Projectile Metastasis Adjuster II,2,-5982960.23
+Rig,Medium Remote Repair Augmentor II,2,-9934588.23
+Rig,Medium Rocket Fuel Cache Partition II,2,2424803.08
+Rig,Medium Salvage Tackle II,2,-9163793.34
+Rig,Medium Semiconductor Memory Cell II,2,3063350.7
+Rig,Medium Semiconductor Memory Cell II,2,3060783.33
+Rig,Medium Sentry Damage Augmentor II,2,-21209745.93
+Rig,Medium Signal Disruption Amplifier II,2,-5453514.91
+Rig,Medium Signal Focusing Kit II,2,-2394725.33
+Rig,Medium Stasis Drone Augmentor II,2,-60321871.1
+Rig,Medium Targeting System Subcontroller II,2,8334980.14
+Rig,Medium Targeting Systems Stabilizer II,2,-7543497
+Rig,Medium Tracking Diagnostic Subroutines II,2,-11775216.57
+Rig,Medium Transverse Bulkhead II,2,6036739.12
+Rig,Medium Trimark Armor Pump II,2,-1548287.21
+Rig,Medium Warhead Calefaction Catalyst II,2,-1143108.58
+Rig,Medium Warhead Flare Catalyst II,2,-2505600.6
+Rig,Medium Warhead Rigor Catalyst II,2,-852821.28
+Rig,Medium Warp Core Optimizer II,2,-10436512.3
+Rig,Small Algid Energy Administrations Unit II,2,128649
+Rig,Small Algid Hybrid Administrations Unit II,2,-542884.09
+Rig,Small Ancillary Current Router II,2,1882257.08
+Rig,Small Ancillary Current Router II,2,1881538.11
+Rig,Small Anti-EM Pump II,2,-5015837.52
+Rig,Small Anti-EM Screen Reinforcer II,2,3401751
+Rig,Small Anti-Explosive Pump II,2,1427833.35
+Rig,Small Anti-Explosive Pump II,2,1427255.98
+Rig,Small Anti-Explosive Screen Reinforcer II,2,17936.96
+Rig,Small Anti-Kinetic Pump II,2,-2046313.46
+Rig,Small Anti-Kinetic Screen Reinforcer II,2,1283992.62
+Rig,Small Anti-Thermal Pump II,2,179351.07
+Rig,Small Anti-Thermal Screen Reinforcer II,2,2650938.52
+Rig,Small Auxiliary Nano Pump II,2,1422107.32
+Rig,Small Auxiliary Thrusters II,2,2153679.72
+Rig,Small Bay Loading Accelerator II,2,2746147.09
+Rig,Small Capacitor Control Circuit II,2,1945044.08
+Rig,Small Capacitor Control Circuit II,2,1944810.69
+Rig,Small Cargohold Optimization II,2,2218199.18
+Rig,Small Core Defense Capacitor Safeguard II,2,-1109423.82
+Rig,Small Core Defense Charge Economizer II,2,-1608540.12
+Rig,Small Core Defense Field Extender II,2,106750.4
+Rig,Small Core Defense Field Purger II,2,-2988015.18
+Rig,Small Core Defense Operational Solidifier II,2,-8271786.78
+Rig,Small Drone Control Range Augmentor II,2,-5147296.97
+Rig,Small Drone Durability Enhancer II,2,-8743225.54
+Rig,Small Drone Mining Augmentor II,2,-9001437.99
+Rig,Small Drone Repair Augmentor II,2,-9332815.87
+Rig,Small Drone Scope Chip II,2,-8727664.21
+Rig,Small Drone Speed Augmentor II,2,-8037798.53
+Rig,Small Dynamic Fuel Valve II,2,-3566507.44
+Rig,Small Egress Port Maximizer II,2,-2415530.05
+Rig,Small Emission Scope Sharpener II,2,713198.9
+Rig,Small Energy Ambit Extension II,2,80474.97
+Rig,Small Energy Burst Aerator II,2,1227035.59
+Rig,Small Energy Collision Accelerator II,2,2433350.29
+Rig,Small Energy Discharge Elutriation II,2,1972824.4
+Rig,Small Energy Discharge Elutriation II,2,1972807.09
+Rig,Small Energy Locus Coordinator II,2,3202218.4
+Rig,Small Energy Metastasis Adjuster II,2,119022.6
+Rig,Small Engine Thermal Shielding II,2,-383142.57
+Rig,Small Gravity Capacitor Upgrade II,2,4220419.36
+Rig,Small Hybrid Ambit Extension II,2,-99896.25
+Rig,Small Hybrid Burst Aerator II,2,4235713.9
+Rig,Small Hybrid Collision Accelerator II,2,1152482.19
+Rig,Small Hybrid Discharge Elutriation II,2,-479661.94
+Rig,Small Hybrid Locus Coordinator II,2,-196408.58
+Rig,Small Hybrid Metastasis Adjuster II,2,1564871.35
+Rig,Small Hydraulic Bay Thrusters II,2,4171850.76
+Rig,Small Hyperspatial Velocity Optimizer II,2,1382755.27
+Rig,Small Inverted Signal Field Projector II,2,-1039539.47
+Rig,Small Ionic Field Projector II,2,4388137.56
+Rig,Small Liquid Cooled Electronics II,2,-1078816.77
+Rig,Small Low Friction Nozzle Joints II,2,2694943.71
+Rig,Small Memetic Algorithm Bank II,2,580334.08
+Rig,Small Nanobot Accelerator II,2,-504898.07
+Rig,Small Particle Dispersion Augmentor II,2,1536863.83
+Rig,Small Particle Dispersion Projector II,2,2652182.36
+Rig,Small Polycarbon Engine Housing II,2,1070017.42
+Rig,Small Polycarbon Engine Housing II,2,1069768.01
+Rig,Small Powergrid Subroutine Maximizer II,2,-1307696.96
+Rig,Small Processor Overclocking Unit II,2,2892734.45
+Rig,Small Projectile Ambit Extension II,2,-333339.84
+Rig,Small Projectile Burst Aerator II,2,2226090.41
+Rig,Small Projectile Collision Accelerator II,2,2414952.79
+Rig,Small Projectile Locus Coordinator II,2,-1939467.03
+Rig,Small Projectile Metastasis Adjuster II,2,-1254035.31
+Rig,Small Remote Repair Augmentor II,2,-9072176.02
+Rig,Small Rocket Fuel Cache Partition II,2,1782368.73
+Rig,Small Salvage Tackle II,2,-1788503.14
+Rig,Small Semiconductor Memory Cell II,2,2656305.54
+Rig,Small Semiconductor Memory Cell II,2,2655767.21
+Rig,Small Sentry Damage Augmentor II,2,-9752974.12
+Rig,Small Signal Disruption Amplifier II,2,-997760.61
+Rig,Small Signal Focusing Kit II,2,160520.89
+Rig,Small Stasis Drone Augmentor II,2,-9862525.51
+Rig,Small Stasis Drone Augmentor II,2,-9862956.23
+Rig,Small Targeting System Subcontroller II,2,1673116.38
+Rig,Small Targeting Systems Stabilizer II,2,-1105633.48
+Rig,Small Tracking Diagnostic Subroutines II,2,-2115218.32
+Rig,Small Transverse Bulkhead II,2,2306656.82
+Rig,Small Trimark Armor Pump II,2,654258.37
+Rig,Small Warhead Calefaction Catalyst II,2,1998127.6
+Rig,Small Warhead Flare Catalyst II,2,-30909
+Rig,Small Warhead Rigor Catalyst II,2,-1680171.41
+Rig,Small Warp Core Optimizer II,2,-2180086.91
+Rig,Small Warp Core Optimizer II,2,-2180274.22
+Module,100MN Analog Booster Afterburner,3,67159626.16
+Module,10MN Analog Booster Afterburner,3,-711734.81
+Module,1200mm Heavy 'Jolt' Artillery I,3,-929418.44
+Module,1400mm 'Jolt' Artillery I,3,14437383.2
+Module,150mm 'Musket' Railgun,3,-599736.27
+Module,1MN Analog Booster Afterburner,3,76890602.18
+Module,200mm Light 'Jolt' Autocannon I,3,-1781681.28
+Module,250mm 'Flintlock' Railgun,3,-6201610.13
+Module,250mm Light 'Jolt' Artillery I,3,-64682.81
+Module,280mm 'Jolt' Artillery I,3,475451.17
+Module,425mm Medium 'Jolt' Autocannon I,3,941265.25
+Module,425mm 'Popper' Railgun,3,-4258108.22
+Module,500MN Digital Booster Microwarpdrive,3,-475534717.7
+Module,50MN Digital Booster Microwarpdrive,3,-241601039.7
+Module,5MN Digital Booster Microwarpdrive,3,14772532.38
+Module,650mm Medium 'Jolt' Artillery I,3,5782821
+Module,720mm 'Jolt' Artillery I,3,3093828.97
+Module,800mm Heavy 'Jolt' Repeating Cannon I,3,10560856.52
+Module,'Abatis' 100mm Steel Plates,3,-2931519.95
+Module,'Arquebus' Heavy Beam Laser I,3,-4859006.3
+Module,'Aura' Warp Core Stabilizer I,3,100691663
+Module,'Bailey' 1600mm Steel Plates,3,43399810.49
+Module,'Balefire' Rocket Launcher,3,389444.02
+Module,'Ballista' Tachyon Beam Laser I,3,-105495403.7
+Module,'Barbican' 800mm Steel Plates,3,10830056.28
+Module,'Barrage' Torpedo Launcher,3,10788653.24
+Module,'Bastion' 400mm Steel Plates,3,11853314.43
+Module,'Beatnik' Small Remote Armor Repairer,3,-45442822.59
+Module,'Bootleg' Remote Sensor Booster,3,-90432966.35
+Module,'Cactus' Modified Kinetic Deflection Amplifier,3,-11078297.64
+Module,'Cartel' Power Diagnostic System I,3,700317.77
+Module,'Catapult' Mega Beam Laser I,3,-29707893.98
+Module,'Censer' Medium Cap Battery,3,-23516769.81
+Module,'Chainmail' 200mm Steel Plates,3,-270993.9
+Module,'Chivalry' Large Remote Capacitor Transmitter,3,-48384959.77
+Module,'Citadella' 100mm Steel Plates,3,-4502335.91
+Module,'Corporate' Light Electron Blaster I,3,157729.75
+Module,'Crossbow' Focused Medium Beam Laser I,3,506597.11
+Module,'Crucible' Small Cap Battery,3,27143446.5
+Module,'Dealer' Light Ion Blaster I,3,1999524.93
+Module,'Delineative' Warp Scrambler,3,36926118.69
+Module,'Desert Heat' Thermal Dissipation Field,3,-11041485.89
+Module,'Deuce' Co-Processor I,3,65504135.48
+Module,'Distributor' Guidance Disruptor,3,-48043254.66
+Module,'Dyad' Co-Processor I,3,25789959.46
+Module,'Enterprise' Remote Tracking Computer,3,-67754457.73
+Module,'Executive' Remote Sensor Dampener,3,15204468.84
+Module,'Felon' Ion Blaster Cannon I,3,-17817479.33
+Module,'Firewall' Signal Amplifier,3,-18298936.71
+Module,'Full Duplex' Ballistic Control System,3,73955991.35
+Module,'Gallows' Light Missile Launcher,3,12180325.21
+Module,'Gambler' Ladar ECM,3,-7371931.72
+Module,'Gauntlet' Small Focused Beam Laser I,3,8375823.02
+Module,'Ghost' Burst Jammer,3,4491653.65
+Module,'Glycerine' Shield Boost Amplifier,3,2132914.48
+Module,'Gorget' Small Armor Repairer I,3,-5625056.37
+Module,'Greaves' Medium Armor Repairer I,3,94338558.87
+Module,'Halberd' Mega Pulse Laser I,3,-63635891.24
+Module,'Harmony' Small Armor Repairer I,3,-28353588.17
+Module,'Harness' Medium Capacitor Booster I,3,-53815250.12
+Module,'Hauberk' Large Armor Repairer I,3,-22296256.14
+Module,Heavy 'Brave' Capacitor Booster,3,97930502.6
+Module,Heavy 'Moat' Energy Neutralizer,3,82753975.97
+Module,Heavy 'Vrykolakas' Energy Nosferatu,3,-22788898.6
+Module,'Heist' Radar ECM,3,7050938.92
+Module,'High Noon' Thermal Dissipation Amplifier,3,-456573.33
+Module,'Hooligan' Heavy Ion Blaster I,3,-1997146.99
+Module,'Hustler' Heavy Neutron Blaster I,3,-9221425.77
+Module,Improved 'Guise' Cloaking Device II,3,36394699.9
+Module,'Inception' Target Painter,3,40587085.28
+Module,'Interruptive' Warp Disruptor,3,29184716.28
+Module,'Investor' Tracking Disruptor I,3,-41872063.44
+Module,'Joust' Heavy Pulse Laser I,3,-26565778.61
+Module,Kaatara's Custom Magnetic Field Stabilizer,3,14076.88
+Module,'Kindred' Gyrostabilizer,3,6637430.06
+Module,'Knight' Medium Remote Capacitor Transmitter,3,-14543624.69
+Module,'Lance' Medium EMP Smartbomb I,3,-31127236.32
+Module,Large Degenerative Concussion Bomb I,3,-62257663.3
+Module,Large 'Integrative' Hull Repair Unit,3,-12642273.42
+Module,Large 'Outlaw' Shield Booster,3,4763823.86
+Module,Large 'Sheriff' Shield Extender,3,-25830522.12
+Module,Ligature Integrated Analyzer,3,-2015228.77
+Module,Limited Expanded 'Archiver' Cargo,3,92071209.62
+Module,'Longbow' Small Focused Pulse Laser I,3,685353.77
+Module,'Love' Medium Remote Armor Repairer,3,18153846.07
+Module,'Mace' Dual Light Beam Laser I,3,552417.88
+Module,'Mafia' Energized Kinetic Membrane I,3,-4545771.32
+Module,'Marketeer' Tracking Computer,3,-15711169.15
+Module,'Marshall' Magnetometric ECM,3,-1646008.29
+Module,'Meditation' Medium Armor Repairer I,3,71513314.31
+Module,Medium 'Canyon' Shield Extender,3,73932679.45
+Module,Medium Degenerative Concussion Bomb I,3,-50365366.5
+Module,Medium 'Ditch' Energy Neutralizer,3,2174337.96
+Module,Medium 'Gattotte' Capacitor Booster,3,9585940.33
+Module,Medium 'Integrative' Hull Repair Unit,3,-20858557.42
+Module,Medium 'Lone Ranger' Shield Booster,3,-415556.82
+Module,Medium 'Strigoi' Energy Nosferatu,3,-120633111.4
+Module,'Monopoly' Magnetic Field Stabilizer,3,-40154581.33
+Module,'Moonshine' Energized Thermal Membrane I,3,-5268047.57
+Module,'Motte' Capacitor Power Relay I,3,-5272401.35
+Module,N-1 Neon Type Rocket Bay,3,14164302.48
+Module,'Natura' Warp Core Stabilizer I,3,-132739488.8
+Module,'Noose' Cruise Missile Launcher,3,17251047.53
+Module,'Nugget' Kinetic Deflection Field,3,-7381275.14
+Module,'Page' Capacitor Flux Coil I,3,63626866.52
+Module,'Palisade' Cap Recharger I,3,-128658762.4
+Module,'Peace' Large Remote Armor Repairer,3,203847880.2
+Module,'Pickaxe' Rapid Light Missile Launcher,3,8134049.73
+Module,'Pike' Small EMP Smartbomb I,3,1120248.55
+Module,'Pilfer' Energized Adaptive Nano Membrane I,3,-42071470.16
+Module,'Plough' Heavy Capacitor Booster I,3,-82731695.91
+Module,'Plunderer' Gravimetric ECM,3,-7427017.65
+Module,'Poacher' EM Ward Field,3,-7786794.6
+Module,'Portcullis' Reactor Control Unit I,3,8962188.64
+Module,'Posse' Adaptive Invulnerability Field,3,97046145.16
+Module,'Prospector' EM Ward Amplifier,3,3012718.46
+Module,'Protest' Large Armor Repairer I,3,-288119754.4
+Module,Prototype 'Poncho' Cloaking Device I,3,36478459.34
+Module,Purloined Sansha Data Analyzer,3,17343014.45
+Module,'Radical' Damage Control,3,200745298.4
+Module,'Saddle' Small Capacitor Booster I,3,-76249266.19
+Module,'Shady' Sensor Booster,3,35074018.99
+Module,'Slither' Heavy Electron Blaster I,3,2715926.61
+Module,Small 'Caltrop' Energy Neutralizer,3,30627312.13
+Module,Small Degenerative Concussion Bomb I,3,-34133375.96
+Module,Small 'Integrative' Hull Repair Unit,3,-3468868.27
+Module,Small 'Settler' Shield Booster,3,-157403.72
+Module,Small 'Siesta' Capacitor Booster,3,-3518980.04
+Module,Small 'Upir' Energy Nosferatu,3,-6120836.91
+Module,Small 'Wolf' Shield Extender,3,6383165.35
+Module,'Smokescreen' Covert Ops Cloaking Device II,3,433239114
+Module,'Snake Eyes' Explosive Deflection Field,3,-13316324.45
+Module,'Squire' Small Remote Capacitor Transmitter,3,-3978953.48
+Module,'Swindler' Electron Blaster Cannon I,3,-5682526.39
+Module,Synthetic Hull Conversion Inertia Stabilizers,3,101844097.1
+Module,Synthetic Hull Conversion Nanofiber Structure,3,-5485705.99
+Module,Synthetic Hull Conversion Overdrive Injector,3,-11968282.27
+Module,Synthetic Hull Conversion Reinforced Bulkheads,3,54598519.79
+Module,Tahron's Custom Heat Sink,3,5746367.64
+Module,'Thurifer' Large Cap Battery,3,471562502
+Module,Torelle's Custom Magnetic Field Stabilizer,3,7095783.21
+Module,'Trebuchet' Heat Sink I,3,-15392488.43
+Module,'Underhand' Neutron Blaster Cannon I,3,25632661.79
+Module,'Undertaker' Heavy Missile Launcher,3,10093684.91
+Module,Vadari's Custom Gyrostabilizer,3,6245600.28
+Module,'Warhammer' Large EMP Smartbomb I,3,34690830.45
+Module,'Whiskey' Explosive Deflection Amplifier,3,-12020968.68
+Module,X-Large 'Locomotive' Shield Booster,3,1806167.48
+Module,Zeugma Integrated Analyzer,3,-13281704.73
+Module,10000MN Afterburner I,1,-2904303.88
+Module,10000MN Monopropellant Enduring Afterburner,1,-4178796.6
+Module,10000MN Y-S8 Compact Afterburner,1,-21037600.76
+Module,100mm Steel Plates I,1,-23708.43
+Module,100MN Afterburner I,1,-109584.74
+Module,10MN Afterburner I,1,-13723.16
+Module,1200mm Artillery Cannon I,1,-1208346.11
+Module,125mm Gatling AutoCannon I,1,4914.75
+Module,125mm Railgun I,1,-5686.6
+Module,1400mm Howitzer Artillery I,1,-1268065.52
+Module,150mm Light AutoCannon I,1,-6471.75
+Module,150mm Railgun I,1,-17888.03
+Module,1600mm Steel Plates I,1,-161157.26
+Module,1MN Afterburner I,1,-2592.21
+Module,1MN Civilian Afterburner,1,-115.65
+Module,200mm AutoCannon I,1,-5315.23
+Module,200mm Railgun I,1,-98145.46
+Module,200mm Steel Plates I,1,-65301
+Module,220mm Vulcan AutoCannon I,1,-130063.86
+Module,25000mm Crystalline Carbonide Restrained Plates,1,6904529.33
+Module,25000mm Rolled Tungsten Compact Plates,1,-9818798.42
+Module,25000mm Steel Plates I,1,-9754095.04
+Module,250mm Light Artillery Cannon I,1,-22110.01
+Module,250mm Railgun I,1,-172646.6
+Module,280mm Howitzer Artillery I,1,-2481.63
+Module,350mm Railgun I,1,-922918.24
+Module,400mm Steel Plates I,1,-201992.42
+Module,425mm AutoCannon I,1,-142756.94
+Module,425mm Railgun I,1,-1277922.28
+Module,50000MN Cold-Gas Enduring Microwarpdrive,1,-30792809.18
+Module,50000MN Microwarpdrive I,1,-16344836.9
+Module,50000MN Quad LiF Restrained Microwarpdrive,1,4916574.53
+Module,50000MN Y-T8 Compact Microwarpdrive,1,-37510900.59
+Module,500MN Microwarpdrive I,1,-526129.78
+Module,50MN Microwarpdrive I,1,-129180.4
+Module,5MN Microwarpdrive I,1,-29834.1
+Module,650mm Artillery Cannon I,1,-182103.71
+Module,720mm Howitzer Artillery I,1,-198604.49
+Module,75mm Gatling Rail I,1,-1036.21
+Module,800mm Repeating Cannon I,1,-547490.17
+Module,800mm Steel Plates I,1,-518255.34
+Module,Adaptive Invulnerability Field I,1,-47679.95
+Module,Adaptive Nano Plating I,1,-12411.19
+Module,Affirmative. Modified Entosis Link,1,-15270611.23
+Module,Afocal Precise Dual Giga Beam Laser,1,-18991456.88
+Module,Afocal Precise Dual Giga Pulse Laser,1,-54465300.49
+Module,Afocal Precise Quad Mega Pulse Laser,1,-22263338.21
+Module,Amarr Phenomena Generator,1,-22647528.63
+Module,Ample Gallium Quad 800mm Repeating Cannon,1,-54560505.81
+Module,Anode Scoped Dual Giga Beam Laser,1,-46693010.65
+Module,Anode Scoped Dual Giga Pulse Laser,1,2616761.2
+Module,Anode Scoped Ion Siege Blaster,1,-31593593.24
+Module,Anode Scoped Quad Mega Pulse Laser,1,-4769062.35
+Module,Anode Scoped Triple Neutron Blaster Cannon,1,-39293431.77
+Module,Arbalest Compact Rapid Torpedo Launcher,1,-45759777.8
+Module,Arbalest Compact XL Cruise Missile Launcher,1,-112257643.9
+Module,Arbalest Compact XL Torpedo Launcher,1,-61122310.73
+Module,Armor Command Burst I,1,-88828.32
+Module,Armor EM Hardener I,1,-96536.09
+Module,Armor Explosive Hardener I,1,-130155.02
+Module,Armor Kinetic Hardener I,1,-108633.22
+Module,Armor Thermal Hardener I,1,-167752.68
+Module,Assault Damage Control I,1,-6424.91
+Module,'Aurora Ominae' Thermal Doomsday,1,-49048431.19
+Module,Auto Targeting System I,1,558.84
+Module,Ballistic Control System I,1,-20953.22
+Module,Basic Energized Adaptive Nano Membrane,1,1465928.26
+Module,Basic Energized Armor Layering Membrane,1,43102.78
+Module,Basic Energized EM Membrane,1,-49972.77
+Module,Basic Energized Explosive Membrane,1,-58161.75
+Module,Basic Energized Kinetic Membrane,1,-57680.83
+Module,Basic Energized Thermal Membrane,1,-62092.03
+Module,Bastion Module I,1,-2743646.3
+Module,Bomb Launcher I,1,-245677.35
+Module,Bosonic Field Generator,1,-20185562.38
+Module,Burst Jammer I,1,-30966.34
+Module,Caldari Phenomena Generator,1,-91634127.66
+Module,Cap Recharger I,1,-25629.22
+Module,Capacitor Flux Coil I,1,-229.89
+Module,Capacitor Power Relay I,1,-5805.8
+Module,Capital ACM Compact Armor Repairer,1,-37581742.19
+Module,Capital Ancillary Armor Repairer,1,4974184.44
+Module,Capital Ancillary Remote Armor Repairer,1,-8303584.84
+Module,Capital Ancillary Remote Shield Booster,1,1336192.27
+Module,Capital Ancillary Shield Booster,1,738295418.4
+Module,Capital Armor Repairer I,1,-25523077.48
+Module,Capital Asymmetric Enduring Remote Shield Booster,1,9457787.02
+Module,Capital Azeotropic Restrained Shield Extender,1,4672609.52
+Module,Capital C-5L Compact Shield Booster,1,-80999323.05
+Module,Capital Cap Battery I,1,-348531.11
+Module,Capital Capacitor Booster I,1,-4680085.55
+Module,Capital Clarity Ward Enduring Shield Booster,1,16318843.59
+Module,Capital Coaxial Compact Remote Armor Repairer,1,3759609.94
+Module,Capital Compact Pb-Acid Cap Battery,1,-43526401.49
+Module,Capital Emergency Hull Energizer I,1,-9894209.34
+Module,Capital Energy Neutralizer I,1,-588285.21
+Module,Capital Energy Nosferatu I,1,-9822772.32
+Module,Capital Flex Armor Hardener I,1,-15449177.45
+Module,Capital Flex Shield Hardener I,1,-14905692.6
+Module,Capital F-RX Compact Capacitor Booster,1,12214322.07
+Module,Capital F-S9 Regolith Compact Shield Extender,1,-136757.5
+Module,Capital Ghoul Compact Energy Nosferatu,1,-61745662.7
+Module,Capital Gremlin Compact Energy Neutralizer,1,-52222494.85
+Module,Capital Hull Repairer I,1,-11423828.58
+Module,Capital I-a Enduring Armor Repairer,1,19918779.49
+Module,Capital I-ax Enduring Remote Armor Repairer,1,28780014.28
+Module,Capital I-b Enduring Hull Repairer,1,-30752109.37
+Module,Capital IEF Compact Hull Repairer,1,-58854027.62
+Module,Capital Implacable Compact Emergency Hull Energizer,1,-58982637.9
+Module,Capital Indefatigable Enduring Emergency Hull Energizer,1,-31748878.49
+Module,Capital Inductive Compact Remote Capacitor Transmitter,1,-30220712.79
+Module,Capital Infectious Scoped Energy Neutralizer,1,9031722.83
+Module,Capital Knave Scoped Energy Nosferatu,1,-8864784.38
+Module,Capital Murky Compact Remote Shield Booster,1,64666830.3
+Module,Capital Radiative Scoped Remote Capacitor Transmitter,1,39845529.25
+Module,Capital Remote Armor Repairer I,1,-10097949
+Module,Capital Remote Capacitor Transmitter I,1,-15311595.03
+Module,Capital Remote Hull Repairer I,1,-30909551.14
+Module,Capital Remote Shield Booster I,1,-6582261.24
+Module,Capital S95a Scoped Remote Shield Booster,1,14734479.78
+Module,Capital Shield Booster I,1,-27765633.87
+Module,Capital Shield Extender I,1,-2054645.02
+Module,Capital Solace Scoped Remote Armor Repairer,1,3465084.77
+Module,Capital Tractor Beam I,1,-3375694.27
+Module,Carbide Compact Dual 1000mm Railgun,1,-102701861.8
+Module,Carbide Compact Quad 3500mm Siege Artillery,1,-104842299.8
+Module,Carbine Compact Hexa 2500mm Repeating Cannon,1,-111846770.1
+Module,Cargo Scanner I,1,-573.57
+Module,Civilian Armor Repairer,1,463.92
+Module,Civilian Damage Control,1,93.78
+Module,Civilian EM Ward Field,1,-1187.42
+Module,Civilian Expanded Cargohold,1,688.21
+Module,Civilian Explosive Deflection Field,1,-1291.62
+Module,Civilian Kinetic Deflection Field,1,-1163.99
+Module,Civilian Shield Booster,1,-731.13
+Module,Civilian Stasis Webifier,1,3851.2
+Module,Civilian Thermal Dissipation Field,1,-1291.68
+Module,Clone Vat Bay I,1,-45296271.53
+Module,Compact Carbine Quad 800mm Repeating Cannon,1,-129783881.8
+Module,Compressed Enduring Dual 1000mm Railgun,1,-52819036.38
+Module,Co-Processor I,1,-31780.75
+Module,Core Probe Launcher I,1,4660.74
+Module,Covert Cynosural Field Generator I,1,-856322.44
+Module,Covert Jump Portal Generator I,1,814302.57
+Module,Cruise Missile Launcher I,1,-7093.42
+Module,Cynosural Field Generator I,1,-164660.6
+Module,Damage Control I,1,-3357.22
+Module,Data Analyzer I,1,-4748.29
+Module,Deep Core Mining Laser I,1,-21282.64
+Module,Defender Launcher I,1,-1550251.8
+Module,Drone Damage Amplifier I,1,-13258.75
+Module,Drone Link Augmentor I,1,-14094.74
+Module,Drone Navigation Computer I,1,-69689.59
+Module,Dual 1000mm Railgun I,1,-28666119.6
+Module,Dual 150mm Railgun I,1,-44156.99
+Module,Dual 180mm AutoCannon I,1,-44018.69
+Module,Dual 250mm Railgun I,1,-274373.83
+Module,Dual 425mm AutoCannon I,1,-298428.76
+Module,Dual 650mm Repeating Cannon I,1,-741131.78
+Module,Dual Giga Beam Laser I,1,-14609119.32
+Module,Dual Giga Pulse Laser I,1,-11319052.96
+Module,Dual Heavy Beam Laser I,1,-629363.85
+Module,Dual Heavy Pulse Laser I,1,-314366.96
+Module,Dual Light Beam Laser I,1,-19180.07
+Module,Dual Light Pulse Laser I,1,-2841.14
+Module,ECM Jammer Burst Projector,1,-12829602.77
+Module,Electron Blaster Cannon I,1,-797014.78
+Module,EM Plating I,1,-7667.35
+Module,EM Ward Amplifier I,1,-13830.1
+Module,EM Ward Field I,1,-84291.23
+Module,Energized Adaptive Nano Membrane I,1,-103455.43
+Module,Energized Armor Layering Membrane I,1,-89983.24
+Module,Energized EM Membrane I,1,-106777.03
+Module,Energized Explosive Membrane I,1,-97147.92
+Module,Energized Kinetic Membrane I,1,-97148.72
+Module,Energized Thermal Membrane I,1,-97147.82
+Module,Energy Neutralization Burst Projector,1,-6008133.58
+Module,Entosis Link I,1,-640466.86
+Module,Entropic Radiation Sink I,1,544117.26
+Module,Expanded Cargohold I,1,348.85
+Module,Expanded Probe Launcher I,1,1771.62
+Module,Experimental Hyperspatial Accelerator,1,-9101985.7
+Module,Experimental Jump Drive Economizer,1,9458392.85
+Module,Explosive Deflection Amplifier I,1,-24612.32
+Module,Explosive Deflection Field I,1,-92919.51
+Module,Explosive Plating I,1,-7558.3
+Module,Fighter Support Unit I,1,-11061662.23
+Module,Focused Medium Beam Laser I,1,-102290.93
+Module,Focused Medium Pulse Laser I,1,-64118.17
+Module,Gallente Phenomena Generator,1,-46735028.63
+Module,Gallium Ample Hexa 2500mm Repeating Cannon,1,8391648.35
+Module,Gallium Ample Quad 3500mm Siege Artillery,1,-50814404.86
+Module,Gas Cloud Harvester I,1,-435331.36
+Module,Gatling Pulse Laser I,1,-1622.61
+Module,'Gjallarhorn' Explosive Doomsday,1,-45718044.1
+Module,Gravimetric ECM I,1,-18283.7
+Module,Gravitational Transportation Field Oscillator,1,-174666111.3
+Module,Guidance Disruptor I,1,6756.27
+Module,Gyrostabilizer I,1,-22505.86
+Module,Heat Sink I,1,-29159.41
+Module,Heavy Assault Missile Launcher I,1,-22255.54
+Module,Heavy Beam Laser I,1,-281040.75
+Module,Heavy Capacitor Booster I,1,-43361.68
+Module,Heavy Electron Blaster I,1,-110373.28
+Module,Heavy Energy Neutralizer I,1,-92994.23
+Module,Heavy Energy Nosferatu I,1,-283676.34
+Module,Heavy Entropic Disintegrator I,1,367132.47
+Module,Heavy Faint Epsilon Scoped Warp Scrambler,1,6627365.95
+Module,Heavy Faint Scoped Warp Disruptor,1,-2246278.28
+Module,Heavy Fleeting Compact Warp Disruptor,1,-53455451.02
+Module,Heavy Initiated Compact Warp Scrambler,1,-47401460.28
+Module,Heavy Ion Blaster I,1,-177443.92
+Module,Heavy J5 Enduring Warp Disruptor,1,-43324698.9
+Module,Heavy J5b Enduring Warp Scrambler,1,-37577961.55
+Module,Heavy Missile Launcher I,1,-30490.95
+Module,Heavy Neutron Blaster I,1,-141992.8
+Module,Heavy Pulse Laser I,1,-242872.53
+Module,Heavy Stasis Grappler I,1,-238712.4
+Module,Heavy Warp Disruptor I,1,893608.91
+Module,Heavy Warp Scrambler I,1,6119892.74
+Module,Hermes Compact Fighter Support Unit,1,-30676927.55
+Module,Hexa 2500mm Repeating Cannon I,1,-11251633.67
+Module,Ice Harvester I,1,-335010.07
+Module,Ice Harvester Upgrade I,1,-22714.31
+Module,Ice Mining Laser I,1,-176635.68
+Module,Industrial Core I,1,-14751560.1
+Module,Inertial Stabilizers I,1,-944.7
+Module,Information Command Burst I,1,-183481.68
+Module,Interdiction Sphere Launcher I,1,-153339.19
+Module,Ion Blaster Cannon I,1,-1318390.65
+Module,Ion Siege Blaster I,1,-34786163.52
+Module,'Judgment' Electromagnetic Doomsday,1,53624069.55
+Module,Jump Portal Generator I,1,-45427638.42
+Module,Kinetic Deflection Amplifier I,1,-24901.96
+Module,Kinetic Deflection Field I,1,-113192.36
+Module,Kinetic Plating I,1,-7369.82
+Module,Ladar ECM I,1,-26215.12
+Module,Large Ancillary Armor Repairer,1,-31237.76
+Module,Large Ancillary Remote Armor Repairer,1,-576698.28
+Module,Large Ancillary Remote Shield Booster,1,-213226.16
+Module,Large Ancillary Shield Booster,1,-36343.7
+Module,Large Armor Repairer I,1,-95734.98
+Module,Large Cap Battery I,1,-65677.69
+Module,Large EMP Smartbomb I,1,-308092.52
+Module,Large Graviton Smartbomb I,1,-95724.21
+Module,Large Hull Repairer I,1,-67060.33
+Module,Large Micro Jump Drive,1,-48856.07
+Module,Large Plasma Smartbomb I,1,-432088.09
+Module,Large Proton Smartbomb I,1,-336937.53
+Module,Large Remote Armor Repairer I,1,-38632.46
+Module,Large Remote Capacitor Transmitter I,1,-217431.94
+Module,Large Remote Hull Repairer I,1,-67029.73
+Module,Large Remote Shield Booster I,1,-33972.24
+Module,Large Shield Booster I,1,-109663.65
+Module,Large Shield Extender I,1,-5207.63
+Module,Layered Plating I,1,-2749.31
+Module,Light Electron Blaster I,1,-6965.42
+Module,Light Entropic Disintegrator I,1,-2652683.44
+Module,Light Ion Blaster I,1,-10894.85
+Module,Light Missile Launcher I,1,-153.01
+Module,Light Neutron Blaster I,1,-8851.57
+Module,Limited Hyperspatial Accelerator,1,-1662677.74
+Module,Limited Jump Drive Economizer,1,-13273871.31
+Module,Limited Precise Ion Siege Blaster,1,-24177414.03
+Module,Limited Precise Triple Neutron Blaster Cannon,1,-8176289.5
+Module,Magnetic Field Stabilizer I,1,-34764.1
+Module,Magnetometric ECM I,1,-16316.82
+Module,Medium Ancillary Armor Repairer,1,211734.48
+Module,Medium Ancillary Remote Armor Repairer,1,-274431.83
+Module,Medium Ancillary Remote Shield Booster,1,-169999.19
+Module,Medium Ancillary Shield Booster,1,670539.45
+Module,Medium Armor Repairer I,1,-58047.48
+Module,Medium Cap Battery I,1,-35157.43
+Module,Medium Capacitor Booster I,1,-37949.57
+Module,Medium EMP Smartbomb I,1,-178871.14
+Module,Medium Energy Neutralizer I,1,-41104.29
+Module,Medium Energy Nosferatu I,1,-55411.82
+Module,Medium Graviton Smartbomb I,1,-165185.64
+Module,Medium Hull Repairer I,1,-45863.02
+Module,Medium Micro Jump Drive,1,-116497.46
+Module,Medium Plasma Smartbomb I,1,-321817.65
+Module,Medium Proton Smartbomb I,1,-142842.05
+Module,Medium Remote Armor Repairer I,1,-20219.72
+Module,Medium Remote Capacitor Transmitter I,1,-117336.76
+Module,Medium Remote Hull Repairer I,1,-50990.65
+Module,Medium Remote Shield Booster I,1,-16706.06
+Module,Medium Shield Booster I,1,-26104.64
+Module,Medium Shield Extender I,1,-2447.96
+Module,Mega Beam Laser I,1,-1160171.1
+Module,Mega Pulse Laser I,1,-762350.19
+Module,Micro Auxiliary Power Core I,1,-66479.95
+Module,Micro Jump Field Generator,1,-252204.73
+Module,Miner I,1,-14461.21
+Module,Mining Foreman Burst I,1,-64435.46
+Module,Mining Laser Upgrade I,1,-11340.08
+Module,Minmatar Phenomena Generator,1,-56370028.63
+Module,Missile Guidance Computer I,1,-2421.12
+Module,Missile Guidance Enhancer I,1,-26424.15
+Module,Modal Enduring Dual Giga Beam Laser,1,-113957535.3
+Module,Modal Enduring Dual Giga Pulse Laser,1,-82077295.48
+Module,Modal Enduring Ion Siege Blaster,1,-45099086.82
+Module,Modal Enduring Quad Mega Pulse Laser,1,-70503063.92
+Module,Modal Enduring Triple Neutron Blaster Cannon,1,-62244572.64
+Module,Modulated Compact Dual Giga Beam Laser,1,-137209080
+Module,Modulated Compact Dual Giga Pulse Laser,1,-123183190.7
+Module,Modulated Compact Quad Mega Pulse Laser,1,-80081538.99
+Module,Multispectral ECM I,1,-18654.11
+Module,Nanofiber Internal Structure I,1,1113.66
+Module,Networked Sensor Array,1,-2022562.06
+Module,Neutron Blaster Cannon I,1,-991558.67
+Module,Noir. Modified Entosis Link,1,-13450456.84
+Module,'Oblivion' Kinetic Doomsday,1,-80517862.41
+Module,Omnidirectional Tracking Enhancer I,1,-13427.32
+Module,Omnidirectional Tracking Link I,1,1516.68
+Module,Overdrive Injector System I,1,-15703.21
+Module,Pandemic SPHERE Modified Entosis Link,1,-9489505.45
+Module,Passive Targeter I,1,-88189.33
+Module,Polarized 200mm AutoCannon,1,755088.4
+Module,Polarized 425mm AutoCannon,1,-1026796.56
+Module,Polarized 800mm Repeating Cannon,1,-268327.11
+Module,Polarized Heavy Assault Missile Launcher,1,1193749
+Module,Polarized Heavy Neutron Blaster,1,-480706.74
+Module,Polarized Heavy Pulse Laser,1,-1705204.72
+Module,Polarized Light Neutron Blaster,1,5208498.29
+Module,Polarized Mega Pulse Laser,1,984962.81
+Module,Polarized Neutron Blaster Cannon,1,6570171.43
+Module,Polarized Rocket Launcher,1,14018713.57
+Module,Polarized Small Focused Pulse Laser,1,934906.57
+Module,Polarized Torpedo Launcher,1,20547794.78
+Module,Power Diagnostic System I,1,-1142.81
+Module,Prototype Cloaking Device I,1,24708.99
+Module,Prototype Hyperspatial Accelerator,1,164329941.2
+Module,Prototype Jump Drive Economizer,1,276254373.1
+Module,Prototype Precise Dual 1000mm Railgun,1,-20328085.54
+Module,Prototype Precise Hexa 2500mm Repeating Cannon,1,9299537.53
+Module,Prototype Precise Quad 3500mm Siege Artillery,1,-4960486.78
+Module,Prototype Precise Quad 800mm Repeating Cannon,1,-8359463.9
+Module,Pulse Activated Nexus Invulnerability Core,1,5482666.35
+Module,Quad 3500mm Siege Artillery I,1,-12370353.03
+Module,Quad 800mm Repeating Cannon I,1,-12736414.87
+Module,Quad Light Beam Laser I,1,-31941.58
+Module,Quad Mega Pulse Laser I,1,-33428263.96
+Module,Radar ECM I,1,-25567.02
+Module,Rapid Heavy Missile Launcher I,1,-12358.96
+Module,Rapid Light Missile Launcher I,1,1972.08
+Module,Rapid Torpedo Launcher I,1,-15215765.77
+Module,Reactive Armor Hardener,1,92793.06
+Module,Reactor Control Unit I,1,-6291.25
+Module,Regulated Compact Ion Siege Blaster,1,-111940303.4
+Module,Regulated Compact Triple Neutron Blaster Cannon,1,-72980419.85
+Module,Reinforced Bulkheads I,1,-53583.68
+Module,Relic Analyzer I,1,-12933.77
+Module,Remote Sensor Booster I,1,-44459.51
+Module,Remote Sensor Dampener I,1,-44431.43
+Module,Remote Tracking Computer I,1,-40908.67
+Module,Rocket Launcher I,1,-1258.16
+Module,Salvager I,1,-2945.66
+Module,Scan Acquisition Array I,1,-40753.12
+Module,Scan Pinpointing Array I,1,-47524.91
+Module,Scan Rangefinding Array I,1,-32120.23
+Module,Scout Scoped Dual 1000mm Railgun,1,-50732342.93
+Module,Scout Scoped Hexa 2500mm Repeating Cannon,1,8421652.32
+Module,Scout Scoped Quad 3500mm Siege Artillery,1,-19430538.37
+Module,Scout Scoped Quad 800mm Repeating Cannon,1,-18027686.88
+Module,Sensor Booster I,1,-38329.39
+Module,Sensor Dampening Burst Projector,1,-73763368.65
+Module,Shield Boost Amplifier I,1,-199168.41
+Module,Shield Command Burst I,1,10584.56
+Module,Shield Flux Coil I,1,-3917.11
+Module,Shield Power Relay I,1,-13069.71
+Module,Shield Recharger I,1,-7462.79
+Module,Ship Scanner I,1,-2845.26
+Module,Siege Module I,1,-20127479.76
+Module,Signal Amplifier I,1,-15394.99
+Module,Signal Distortion Amplifier I,1,-31305.47
+Module,Skirmish Command Burst I,1,-40883.61
+Module,Small Ancillary Armor Repairer,1,50161.91
+Module,Small Ancillary Remote Armor Repairer,1,-186636.53
+Module,Small Ancillary Remote Shield Booster,1,-54956.97
+Module,Small Ancillary Shield Booster,1,7917.21
+Module,Small Armor Repairer I,1,-3307.59
+Module,Small Cap Battery I,1,-7922.6
+Module,Small Capacitor Booster I,1,-2086.85
+Module,Small EMP Smartbomb I,1,-39229.83
+Module,Small Energy Neutralizer I,1,-23341.34
+Module,Small Energy Nosferatu I,1,-21498.16
+Module,Small Focused Beam Laser I,1,-3033.38
+Module,Small Focused Pulse Laser I,1,-16320.74
+Module,Small Graviton Smartbomb I,1,-56456.97
+Module,Small Hull Repairer I,1,-31524.57
+Module,Small Plasma Smartbomb I,1,-68143
+Module,Small Proton Smartbomb I,1,-48206.53
+Module,Small Remote Armor Repairer I,1,-13745.61
+Module,Small Remote Capacitor Transmitter I,1,-56765.55
+Module,Small Remote Hull Repairer I,1,-39681.94
+Module,Small Remote Shield Booster I,1,-12038.38
+Module,Small Shield Booster I,1,-12421.43
+Module,Small Shield Extender I,1,-4698.44
+Module,Small Tractor Beam I,1,-318450.22
+Module,Spectre Fleet's Modified Entosis Link,1,-6599011.23
+Module,Stasis Webification Burst Projector,1,-33858604.59
+Module,Stasis Webifier I,1,-6524.5
+Module,Strip Miner I,1,-425449.03
+Module,Supratidal Entropic Disintegrator I,1,-100635991.2
+Module,Survey Probe Launcher I,1,-4032.44
+Module,Survey Scanner I,1,954.63
+Module,Tachyon Beam Laser I,1,-1662362.06
+Module,Target Illumination Burst Projector,1,-49307322.83
+Module,Target Painter I,1,-31678.13
+Module,Target Spectrum Breaker,1,-33518.1
+Module,TE-2100 Ample Rapid Torpedo Launcher,1,7550630.24
+Module,TE-2100 Ample XL Cruise Missile Launcher,1,-35539824.68
+Module,TE-2100 Ample XL Torpedo Launcher,1,-2014820.89
+Module,Thermal Dissipation Amplifier I,1,-16164.75
+Module,Thermal Dissipation Field I,1,-101155.18
+Module,Thermal Plating I,1,-7173.34
+Module,Torpedo Launcher I,1,-3412.74
+Module,Tracking Computer I,1,-1313.34
+Module,Tracking Disruptor I,1,-33737.26
+Module,Tracking Enhancer I,1,-26916.58
+Module,Triage Module I,1,-29280701
+Module,Triple Neutron Blaster Cannon I,1,-27916596.66
+Module,Warp Core Stabilizer I,1,-8226.78
+Module,Warp Disruption Burst Projector,1,-15873752.27
+Module,Warp Disruption Field Generator I,1,-1468525.08
+Module,Warp Disruptor I,1,-19317.77
+Module,Warp Scrambler I,1,17675.88
+Module,Weapon Disruption Burst Projector,1,-70801211.37
+Module,'Wild' Miner I,1,-28916433.53
+Module,XL Cruise Missile Launcher I,1,-20958042.89
+Module,XL Torpedo Launcher I,1,-15177129.36
+Module,X-Large Ancillary Shield Booster,1,231205.21
+Module,X-Large Shield Booster I,1,-238991.25
